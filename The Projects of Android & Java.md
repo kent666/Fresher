@@ -1,7 +1,6 @@
 #Android/Java 项目篇
 
 ### HTTP & Socket
-
 - retrofit(https://github.com/square/retrofit)
 - okhttp(https://github.com/square/okhttp)
 - android-async-http(https://github.com/loopj/android-async-http)
@@ -11,14 +10,12 @@
 - android-websockets(https://github.com/koush/android-websockets)
 - android-websockets(https://github.com/codebutler/android-websockets)
 
-###异步任务
-
+### 异步任务
 - robospice(https://github.com/stephanenicolas/robospice)
 - android-priority-jobqueue(https://github.com/path/android-priority-jobqueue)
 - tape(https://github.com/square/tape)
 
 ### 数据处理
-
 - JSON
     - jackson(https://github.com/FasterXML/jackson)
     - gson(https://github.com/google/gson)
@@ -26,13 +23,11 @@
     - LoganSquare(https://github.com/bluelinelabs/LoganSquare)
     - moshi(https://github.com/square/moshi)
     - 性能对比：https://github.com/eishay/jvm-serializers/wiki/Staging-Results
-
 - Protocol Buffers
     - wire(https://github.com/square/wire)
     - Protocol Buffers(https://github.com/google/protobuf)
 
-图片加载、显示、缓存
-
+### 图片加载、显示、缓存
 - Android-Universal-Image-Loader(https://github.com/nostra13/Android-Universal-Image-Loader)
 - picasso(https://github.com/square/picasso)
     - picasso2-okhttp3-downloader(https://github.com/JakeWharton/picasso2-okhttp3-downloader)
@@ -45,8 +40,7 @@
 - image-loader(https://github.com/novoda/image-loader)
 - DiskLruCache(https://github.com/JakeWharton/DiskLruCache)
 
-Storage & DataBase & ORM
-
+### Storage & DataBase & ORM
 - Database
     - realm-java(https://github.com/realm/realm-java):Realm is a mobile database: a replacement for SQLite & ORMs
     - sqlcipher(https://github.com/sqlcipher/sqlcipher)
@@ -67,8 +61,7 @@ Storage & DataBase & ORM
     - android-database-sqlcipher(https://github.com/sqlcipher/android-database-sqlcipher)
     - sqlite-provider(https://github.com/novoda/sqlite-provider)
 
-设计模式
-
+### 设计模式
 - java-design-patterns（https://github.com/iluwatar/java-design-patterns）
 - androidmvp(https://github.com/antoniolg/androidmvp)
 - android-mvp-pattern(https://github.com/kaedea/android-mvp-pattern)
@@ -79,8 +72,7 @@ Storage & DataBase & ORM
 - Android-CleanArchitecture(https://github.com/android10/Android-CleanArchitecture)
 - Rosie(https://github.com/Karumi/Rosie)
 
-依赖注入
-
+### 依赖注入
 - butterknife（https://github.com/JakeWharton/butterknife）
     - android-butterknife-zelezny(https://github.com/avast/android-butterknife-zelezny)
 - dagger(https://github.com/square/dagger)
@@ -90,14 +82,12 @@ Storage & DataBase & ORM
 - Android Annotation(http://developer.android.com/intl/zh-cn/tools/debugging/annotations.html)
 - androidannotations(https://github.com/excilys/androidannotations)
 
-数据绑定（Data Binding）
-
+### 数据绑定（Data Binding）
 - RoboBinding(https://github.com/RoboBinding/RoboBinding)
 - Android official(http://developer.android.com/intl/zh-cn/tools/data-binding/guide.html)
 - 案例：MasteringAndroidDataBinding(https://github.com/LyndonChin/MasteringAndroidDataBinding)
 
-事件、响应式编程
-
+### 事件、响应式编程
 - RxJava(https://github.com/ReactiveX/RxJava)
 - RxAndroid(https://github.com/ReactiveX/RxAndroid)
 - EventBus（https://github.com/greenrobot/EventBus）
@@ -117,8 +107,7 @@ Storage & DataBase & ORM
 - Android-ReactiveLocation(https://github.com/mcharmas/Android-ReactiveLocation)
 - RxPermissions(https://github.com/tbruyelle/RxPermissions)
 
-测试框架
-
+### 测试框架
 - android-testing(https://github.com/googlesamples/android-testing)
 - GT(https://github.com/TencentOpen/GT)
 - robotium(https://github.com/RobotiumTech/robotium)
@@ -127,8 +116,7 @@ Storage & DataBase & ORM
 - mockito(https://github.com/mockito/mockito)
 - assertj-android(https://github.com/square/assertj-android)
 
-性能、优化、调试
-
+### 性能、优化、调试
 - acra(https://github.com/ACRA/acra)
 - leakcanary(https://github.com/square/leakcanary)
 - stetho(https://github.com/facebook/stetho)
@@ -145,16 +133,14 @@ Storage & DataBase & ORM
 - spoon(https://github.com/square/spoon)
 - enjarify(https://github.com/google/enjarify)
 
-免安装、动态加载
-
+### 免安装、动态加载
 - DroidPlugin(https://github.com/DroidPluginTeam/DroidPlugin)
 - dynamic-load-apk(https://github.com/singwhatiwanna/dynamic-load-apk)
 - ACDD(https://github.com/bunnyblue/ACDD)
 - AndroidDynamicLoader(https://github.com/mmin18/AndroidDynamicLoader)
 - AndFix(https://github.com/alibaba/AndFix)
 
-逆向工程、安全
-
+### 逆向工程、安全
 - Apktool(https://github.com/iBotPeaches/Apktool)
 - jadx(https://github.com/skylot/jadx)
 - jd-gui(https://github.com/java-decompiler/jd-gui)
@@ -167,27 +153,23 @@ Storage & DataBase & ORM
 - bytecode-viewer(https://github.com/Konloch/bytecode-viewer)
 - android-classyshark(https://github.com/google/android-classyshark)
 
-CI & 渠道 & 统计 & 推广
-
+### CI & 渠道 & 统计 & 推广
 - jenkins(https://github.com/jenkinsci/jenkins)
     - hudson(https://github.com/kohsuke/hudson) (Deprecated)
 - Travis CI(https://travis-ci.org/)
 - CircleCI(https://circleci.com/)
 - fastlane(https://github.com/fastlane/fastlane) Auto Deployment Tools
-
     - https://krausefx.com/blog/fastlane-is-now-part-of-fabric
     - http://www.infoq.com/cn/news/2015/01/fastlane-ios-continuous-deploy
 - packer-ng-plugin(https://github.com/mcxiaoke/packer-ng-plugin)
 - andlytics(https://github.com/AndlyticsProject/andlytics)
 - DeepLinkDispatch(https://github.com/airbnb/DeepLinkDispatch)
 
-登录、校验
-
+### 登录、校验
 - whorlwind(https://github.com/square/whorlwind)
 - conceal(https://github.com/facebook/conceal)
 
-新手引导
-
+### 新手引导
 - slidingtutorial-android(https://github.com/Cleveroad/slidingtutorial-android)
 - ShowcaseView(https://github.com/amlcurran/ShowcaseView)
 - MaterialIntroView(https://github.com/iammert/MaterialIntroView)
@@ -195,20 +177,17 @@ CI & 渠道 & 统计 & 推广
 - AppIntro(https://github.com/PaoloRotolo/AppIntro)
 - ProductTour(https://github.com/matrixxun/ProductTour)
 
-日志相关
-
+### 日志相关
 - timber(https://github.com/JakeWharton/timber)
 - logger(https://github.com/orhanobut/logger)
 - KLog(https://github.com/ZhaoKaiQiang/KLog)
 - puree-android(https://github.com/cookpad/puree-android)
 
-软件更新
-
+### 软件更新
 - changeloglib(https://github.com/gabrielemariotti/changeloglib)
 - AppUpdater(https://github.com/javiersantos/AppUpdater)
 
-相机、相册、图片处理、二维码
-
+### 相机、相册、图片处理、二维码
 - uCrop(https://github.com/Yalantis/uCrop)
 - cropper(https://github.com/edmodo/cropper)
 - GalleryFinal(https://github.com/pengjianbo/GalleryFinal)
@@ -220,22 +199,19 @@ CI & 渠道 & 统计 & 推广
 - scissors(https://github.com/lyft/scissors)
 - barcodescanner(https://github.com/dm77/barcodescanner)
 
-文件管理
-
+### 文件管理
 - FileDownloader(https://github.com/lingochamp/FileDownloader)
 - aFileChooser(https://github.com/iPaulPro/aFileChooser)
 - ExFilePicker(https://github.com/bartwell/ExFilePicker)
 - Android-DirectoryChooser(https://github.com/passy/Android-DirectoryChooser)
 
-取色器
-
+### 取色器
 - HoloColorPicker(https://github.com/LarsWerkman/HoloColorPicker)
 - android-betterpickers(https://github.com/code-troopers/android-betterpickers)
 - SublimePicker(https://github.com/vikramkakkar/SublimePicker)
 - colorpicker(https://github.com/flavienlaurent/colorpicker)
 
-阅读器、文本处理、表单
-
+### 阅读器、文本处理、表单
 - Android-Validator(https://github.com/throrin19/Android-Validator)
 - android-edittext-validator(https://github.com/vekexasia/android-edittext-validator)
 - TextJustify-Android(https://github.com/bluejamesbond/TextJustify-Android)
@@ -245,62 +221,51 @@ CI & 渠道 & 统计 & 推广
 - richeditor-android(https://github.com/wasabeef/richeditor-android)
 - Knife(https://github.com/mthli/Knife)
 
-时间、日期、国际化
-
+### 时间、日期、国际化
 - device-year-class(https://github.com/facebook/device-year-class)
 - joda-time-android(https://github.com/dlew/joda-time-android)
 
-焕肤
-
+### 焕肤
 - AndroidChangeSkin(https://github.com/hongyangAndroid/AndroidChangeSkin)
 
-滑动锁屏
-
+### 滑动锁屏
 - GlowPadView(https://github.com/nadavfima/GlowPadView)
 - GlowPadBackport(https://github.com/frakbot/GlowPadBackport)
 
-键盘 & 表情 & 聊天
-
+### 键盘 & 表情 & 聊天
 - XhsEmoticonsKeyboard(https://github.com/w446108264/XhsEmoticonsKeyboard)
 
-权限提示
-
+### 权限提示
 - TedPermission(https://github.com/ParkSangGwon/TedPermission)
 - Dexter(https://github.com/Karumi/Dexter)
 
-音视频处理
-
+### 音视频处理
 - VitamioBundle(https://github.com/yixia/VitamioBundle)
 - libstreaming(https://github.com/fyhertz/libstreaming)
 - Telecine(https://github.com/JakeWharton/Telecine)
 
-模板
-
+### 模板
 - phrase(https://github.com/square/phrase)
 - AndResGuard(https://github.com/shwenzhang/AndResGuard)
 - parceler(https://github.com/johncarl81/parceler)
 
-跨平台
-
+### 跨平台
 - node-android(https://github.com/InstantWebP2P/node-android)
 - FirebaseUI-Android(https://github.com/firebase/FirebaseUI-Android)
 - cordova-android(https://github.com/apache/cordova-android)
 
-其他工具
-
+### 其他工具
 - BackgroundMailLibrary(https://github.com/kristijandraca/BackgroundMailLibrary)
 - xUtils(https://github.com/wyouflf/xUtils)
 - xUtils3(https://github.com/wyouflf/xUtils3)
 - apk-downloader(https://github.com/Lekensteyn/apk-downloader)
 - anko(https://github.com/Kotlin/anko)
 
-游戏引擎
-
+### 游戏引擎
 - libgdx(https://github.com/libgdx/libgdx)
 - AndEngine(https://github.com/nicolasgramlich/AndEngine)
 
-ImageView
-
+### ImageView
 - RoundedImageView(https://github.com/vinc3m1/RoundedImageView)
 - TouchImageView(https://github.com/MikeOrtiz/TouchImageView)
 - ImageViewZoom(https://github.com/sephiroth74/ImageViewZoom)
@@ -313,13 +278,11 @@ ImageView
 - Final-Android-Resizer(https://github.com/asystat/Final-Android-Resizer)
 - AndroidImageSlider(https://github.com/daimajia/AndroidImageSlider)
 
-ScrollView
-
+### ScrollView
 - Android-ObservableScrollView(https://github.com/ksoichiro/Android-ObservableScrollView)
 - android-viewflow(https://github.com/pakerfeldt/android-viewflow)
 
-ProgressBar
-
+### ProgressBar
 - SmoothProgressBar(https://github.com/castorflex/SmoothProgressBar)
 - ProgressWheel(https://github.com/Todd-Davies/ProgressWheel)
 - materialish-progress(https://github.com/pnikosis/materialish-progress)
@@ -328,8 +291,7 @@ ProgressBar
 - NumberProgressBar(https://github.com/daimajia/NumberProgressBar)
 - ElasticProgressBar(https://github.com/michelelacorte/ElasticProgressBar)
 
-TextView & EditText
-
+### TextView & EditText
 - MaterialEditText(https://github.com/rengwuxian/MaterialEditText)
 - Android-RobotoTextView(https://github.com/johnkil/Android-RobotoTextView)
 - android-autofittextview(https://github.com/grantland/android-autofittextview)
@@ -344,15 +306,13 @@ TextView & EditText
 - TokenAutoComplete(https://github.com/splitwise/TokenAutoComplete)
 - FloatingText(https://github.com/UFreedom/FloatingText)
 
-Dialog
-
+### Dialog
 - sweet-alert-dialog(https://github.com/pedant/sweet-alert-dialog)
 - android-styled-dialogs(https://github.com/avast/android-styled-dialogs)
 - MaterialStyledDialogs(https://github.com/javiersantos/MaterialStyledDialogs)
 - NiftyDialogEffects(https://github.com/sd6352051/NiftyDialogEffects)
 
-Button
-
+### Button
 - circular-progress-button(https://github.com/dmytrodanylyk/circular-progress-button)
 - LikeButton(https://github.com/jd-alexander/LikeButton)
 - android-circlebutton(https://github.com/markushi/android-circlebutton)
@@ -363,29 +323,24 @@ Button
 - android-floating-action-button(https://github.com/futuresimple/android-floating-action-button)
 - FloatingActionButton(https://github.com/makovkastar/FloatingActionButton)
 
-CheckBox
-
+### CheckBox
 - SmoothCheckBox(https://github.com/andyxialm/SmoothCheckBox)
 
-Toast & Notification
-
+### Toast & Notification
 - SuperToasts(https://github.com/JohnPersano/SuperToasts)
 - Crouton(https://github.com/keyboardsurfer/Crouton)
 - Crouton(https://github.com/GBouerat/Crouton)
 - Android-AppMsg(https://github.com/johnkil/Android-AppMsg)
 - Notifications4EveryWhere(https://github.com/youxiachai/Notifications4EveryWhere)
 
-Floating Window
-
+### Floating Window
 - StandOut(https://github.com/pingpongboss/StandOut)
 
-SearchView
-
+### SearchView
 - FloatingSearchView(https://github.com/renaudcerrato/FloatingSearchView)
 - floatingsearchview(https://github.com/arimorty/floatingsearchview)
 
-Calendar
-
+### Calendar
 - Android-MonthCalendarWidget(https://github.com/romannurik/Android-MonthCalendarWidget)
 - android-times-square(https://github.com/square/android-times-square)
 - Android-Week-View(https://github.com/alamkanak/Android-Week-View)
@@ -393,21 +348,18 @@ Calendar
 - AgendaCalendarView(https://github.com/Tibolte/AgendaCalendarView)
 - Caldroid(https://github.com/roomorama/Caldroid)
 
-Gif & emoji
-
+### Gif & emoji
 - GifView(https://github.com/Cutta/GifView)
 - Emoticons-Keyboard(https://github.com/chiragjain/Emoticons-Keyboard)
 - emoji-cheat-sheet.com(https://github.com/arvida/emoji-cheat-sheet.com)
 - twemoji(https://github.com/twitter/twemoji)
 - emojitracker(https://github.com/mroth/emojitracker)
 
-Status Bar
-
+### Status Bar
 - StatusBarCompat(https://github.com/niorgai/StatusBarCompat)
 - StatusBarUtil(https://github.com/laobie/StatusBarUtil)
 
-ListView & RecylerView
-
+### ListView & RecylerView
 - drag-sort-listview(https://github.com/bauerca/drag-sort-listview)
 - StickyListHeaders(https://github.com/emilsjolander/StickyListHeaders)
 - pinned-section-listview(https://github.com/beworker/pinned-section-listview)
@@ -429,8 +381,7 @@ ListView & RecylerView
 - sticky-headers-recyclerview(https://github.com/timehop/sticky-headers-recyclerview)
 - RecyclerView-FastScroll(https://github.com/timusus/RecyclerView-FastScroll)
 
-GridView & GridLayout
-
+### GridView & GridLayout
 - AndroidStaggeredGrid(https://github.com/etsy/AndroidStaggeredGrid)
 - StaggeredGridView(https://github.com/maurycyw/StaggeredGridView)
 - StickyGridHeaders(https://github.com/TonicArtos/StickyGridHeaders)
@@ -442,8 +393,7 @@ GridView & GridLayout
 - SquareGridView(https://github.com/goodev/SquareGridView)
 - StaggeredGridView(https://github.com/chrisjenx/StaggeredGridView)
 
-ViewPager
-
+### ViewPager
 - ViewPagerIndicator(https://github.com/JakeWharton/ViewPagerIndicator)
 - JazzyViewPager(https://github.com/jfeinstein10/JazzyViewPager)
 - Android-WizardPager(https://github.com/romannurik/Android-WizardPager)
@@ -454,8 +404,7 @@ ViewPager
 - mapviewpager(https://github.com/nitrico/mapviewpager)
 - WoWoViewPager(https://github.com/Nightonke/WoWoViewPager)
 
-Menu & ActionBar
-
+### Menu & ActionBar
 - SlidingMenu(https://github.com/jfeinstein10/SlidingMenu)
 - AndroidResideMenu(https://github.com/SpecialCyCi/AndroidResideMenu)
 - CircularFloatingActionMenu(https://github.com/oguzbilgener/CircularFloatingActionMenu)
@@ -475,43 +424,37 @@ Menu & ActionBar
 - material-menu(https://github.com/balysv/material-menu)
 - Side-Menu.Android(https://github.com/Yalantis/Side-Menu.Android)
 
-Tab &Bar
-
+### Tab &Bar
 - PagerSlidingTabStrip(https://github.com/astuetz/PagerSlidingTabStrip)
 - BottomBar(https://github.com/roughike/BottomBar)
 - LuseenBottomNavigation(https://github.com/armcha/LuseenBottomNavigation)
 - ahbottomnavigation(https://github.com/aurelhubert/ahbottomnavigation)
 - RefreshActionItem(https://github.com/ManuelPeinado/RefreshActionItem)
 
-Panel
-
+### Panel
 - AndroidSlidingUpPanel(https://github.com/umano/AndroidSlidingUpPanel)
 
-CardLayout
-
+### CardLayout
 - cardslib(https://github.com/gabrielemariotti/cardslib)
 - DraggablePanel(https://github.com/pedrovgs/DraggablePanel)
 - MaterialList(https://github.com/dexafree/MaterialList)
 - cardsui-for-android(https://github.com/Androguide/cardsui-for-android)
 - Swipecards(https://github.com/Diolor/Swipecards)
 
-PullToRefresh
-
+### PullToRefresh
 - android-Ultra-Pull-To-Refresh(https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 - HitBlockRefresh(https://github.com/Hitomis/HitBlockRefresh)
 - android-PullRefreshLayout(https://github.com/baoyongzhang/android-PullRefreshLayout)
 - PullZoomView(https://github.com/Frank-Zhu/PullZoomView)
 
-Swipe & Slide
-
+### Swipe & Slide
 - sliding-deck(https://github.com/txusballesteros/sliding-deck)
 - android-FlipView(https://github.com/emilsjolander/android-FlipView)
 - AndroidSwipeLayout(https://github.com/daimajia/AndroidSwipeLayout)
 - android-sliding-layer-lib(https://github.com/wunderlist/android-sliding-layer-lib)
 - SwipeBackLayout(https://github.com/ikew0ng/SwipeBackLayout)
 
-Android Graphics
-
+### Android Graphics
 - MPAndroidChart(https://github.com/PhilJay/MPAndroidChart)
 - hellocharts-android(https://github.com/lecho/hellocharts-android)
 - android-gpuimage(https://github.com/CyberAgent/android-gpuimage)
@@ -522,8 +465,7 @@ Android Graphics
 - GraphView-Demos(https://github.com/jjoe64/GraphView-Demos)
 - Horizon(https://github.com/Yalantis/Horizon)
 
-Animation & Transactions
-
+### Animation & Transactions
 - ListViewAnimations(https://github.com/nhaarman/ListViewAnimations)
 - AndroidViewAnimations(https://github.com/daimajia/AndroidViewAnimations)
 - android-flip(https://github.com/openaphid/android-flip)
@@ -546,8 +488,7 @@ Animation & Transactions
 - ComboView(https://github.com/brucetoo/ComboView)
 - bottomsheet(https://github.com/Flipboard/bottomsheet)
 
-Meterial Design
-
+### Meterial Design
 - MaterialDesignLibrary(https://github.com/navasmdc/MaterialDesignLibrary)
 - MaterialLogin(https://github.com/shem8/MaterialLogin)
 - material-sheet-fab(https://github.com/gowong/material-sheet-fab)
@@ -564,16 +505,14 @@ Meterial Design
 - Carbon(https://github.com/ZieIony/Carbon)
 - awesome-android-ui(https://github.com/wasabeef/awesome-android-ui)
 
-Font
-
+### Font
 - Calligraphy(https://github.com/chrisjenx/Calligraphy)
 - google/fonts(https://github.com/google/fonts)
 - source-sans-pro(https://github.com/adobe-fonts/source-sans-pro)
 - Font-Awesome(https://github.com/FortAwesome/Font-Awesome)
 - roboto(https://github.com/google/roboto)
 
-Icon
-
+### Icon
 - droidicon(https://github.com/theDazzler/droidicon)
 - IconicDroid(https://github.com/atermenji/IconicDroid)
 - android-iconify(https://github.com/JoanZapata/android-iconify)
@@ -581,8 +520,7 @@ Icon
 - material-design-icons(https://github.com/google/material-design-icons)
 - open-iconic(https://github.com/iconic/open-iconic)
 
-Blur & 其他效果
-
+### Blur & 其他效果
 - Speculum-Android(https://github.com/NielsMasdorp/Speculum-Android)
 - BlurEffectForAndroidDesign(https://github.com/PomepuyN/BlurEffectForAndroidDesign)
 - android_anndblur(https://github.com/harism/android_anndblur)
@@ -590,12 +528,10 @@ Blur & 其他效果
 - Blurry(https://github.com/wasabeef/Blurry)
 - android-stackblur(https://github.com/kikoso/android-stackblur)
 
-Color
-
+### Color
 - ColorArt(https://github.com/MichaelEvans/ColorArt)
 
-Android Layout
-
+### Android Layout
 - FreeFlow(https://github.com/Comcast/FreeFlow)
 - PinterestLikeAdapterView(https://github.com/GDG-Korea/PinterestLikeAdapterView)
 - greedo-layout-for-android(https://github.com/500px/greedo-layout-for-android)
@@ -637,8 +573,7 @@ Android Layout
 - FlatUI(https://github.com/eluleci/FlatUI)
 - shimmer-android(https://github.com/facebook/shimmer-android)
 
-App
-
+### App
 - iosched(https://github.com/google/iosched)
 - zxing(https://github.com/zxing/zxing)
 - android-UniversalMusicPlayer(https://github.com/googlesamples/android-UniversalMusicPlayer)
@@ -710,12 +645,10 @@ App
 - Telegram(https://github.com/DrKLO/Telegram)
 - shadowsocks-android(https://github.com/shadowsocks/shadowsocks-android)
 
-Android Best Practices
-
+### Android Best Practices
 - android-best-practices(https://github.com/futurice/android-best-practices)
 
-学习资源
-
+### 学习资源
 - coursera-android(https://github.com/aporter/coursera-android)
 - Android_Data(https://github.com/Freelander/Android_Data)
 - Android-Tips(https://github.com/tangqi92/Android-Tips)
@@ -730,8 +663,7 @@ Android Best Practices
 - AndroidDevTools(https://github.com/inferjay/AndroidDevTools)
 - android-libraries-and-resources(https://github.com/alamkanak/android-libraries-and-resources)
 
-SDK
-
+### SDK
 - facebook-android-sdk(https://github.com/facebook/facebook-android-sdk)
 - android-maps-utils(https://github.com/googlemaps/android-maps-utils)
 - aws-sdk-java(https://github.com/aws/aws-sdk-java)
@@ -739,18 +671,15 @@ SDK
 - aws-sdk-android(https://github.com/aws/aws-sdk-android)
 - yandexmapkit-android(https://github.com/yandexmobile/yandexmapkit-android)
 
-搜索引擎、全文检索
-
+### 搜索引擎、全文检索
 - elasticsearch(https://github.com/elastic/elasticsearch)
 
-分布式&大数据
-
+### 分布式&大数据
 - Hystrix(https://github.com/Netflix/Hystrix)
 - storm(https://github.com/apache/storm)
 - mdrill(https://github.com/alibaba/mdrill)
 
-Java Web
-
+### Java Web
 - spring-framework(https://github.com/spring-projects/spring-framework)
 - spring-boot(https://github.com/spring-projects/spring-boot)
 - physical-web(https://github.com/google/physical-web)（web互联互通）
@@ -762,15 +691,13 @@ Java Web
     - geomajas-project-server(https://github.com/geomajas/geomajas-project-server)
 - rest.li(https://github.com/linkedin/rest.li)
 
-Lang & 扩展
-
+### Lang & 扩展
 - guava(https://github.com/google/guava):Google Core Libraries for Java 6+
 - retrolambda(https://github.com/orfjackal/retrolambda)
 - javacpp(https://github.com/bytedeco/javacpp)
 - kotlin(https://github.com/JetBrains/kotlin)
 
-Java工具集
-
+### Java工具集
 - jimfs(https://github.com/google/jimfs):An in-memory file system for Java 7+
 - JGroups(https://github.com/belaban/JGroups)
 - gridgain(https://github.com/gridgain/gridgain)
@@ -778,6 +705,9 @@ Java工具集
 - smile(https://github.com/haifengl/smile)
 - joda-time(https://github.com/JodaOrg/joda-time)
 
-参考
 
+
+
+
+### 参考
 - http://weibo.com/GitHubDaily
