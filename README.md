@@ -1,1 +1,1 @@
-This project is the collections of my enjoy repos.
+The collections of my enjoy repos.
