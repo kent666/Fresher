@@ -365,7 +365,7 @@
 - pinned-section-listview(https://github.com/beworker/pinned-section-listview)
 - LazyList(https://github.com/thest1/LazyList)
 - ListBuddies(https://github.com/jpardogo/ListBuddies)
-- HorizontalVariableListView(https://github.com/sephiroth74/HorizontalVariableListView) Deprecated (RecyclerView)
+- HorizontalVariableListView(https://github.com/sephiroth74/HorizontalVariableListView)
 - IndexableListView(https://github.com/woozzu/IndexableListView)
 - QuickReturnListView(https://github.com/LarsWerkman/QuickReturnListView)
 - FlabbyListView(https://github.com/jpardogo/FlabbyListView)
