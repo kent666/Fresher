@@ -1,12 +1,14 @@
 # Android/Java 项目篇
 
 ### HTTP & Socket
-- retrofit(https://github.com/square/retrofit)
-- okhttp(https://github.com/square/okhttp)
-- android-async-http(https://github.com/loopj/android-async-http)
-- whiskey(https://github.com/twitter/whiskey)
-- AndroidAsync(https://github.com/koush/AndroidAsync)
-- socket.io-client-java(https://github.com/socketio/socket.io-client-java)
+- HTTP
+  - retrofit(https://github.com/square/retrofit)
+  - okhttp(https://github.com/square/okhttp)
+  - android-async-http(https://github.com/loopj/android-async-http)
+  - whiskey(https://github.com/twitter/whiskey)
+_ Socket
+  - AndroidAsync(https://github.com/koush/AndroidAsync)
+  - socket.io-client-java(https://github.com/socketio/socket.io-client-java)
 
 ### 异步任务
 - robospice(https://github.com/stephanenicolas/robospice)
