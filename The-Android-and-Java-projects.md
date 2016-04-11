@@ -7,8 +7,6 @@
 - whiskey(https://github.com/twitter/whiskey)
 - AndroidAsync(https://github.com/koush/AndroidAsync)
 - socket.io-client-java(https://github.com/socketio/socket.io-client-java)
-- android-websockets(https://github.com/koush/android-websockets)
-- android-websockets(https://github.com/codebutler/android-websockets)
 
 ### 异步任务
 - robospice(https://github.com/stephanenicolas/robospice)
