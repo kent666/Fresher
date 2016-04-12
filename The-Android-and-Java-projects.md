@@ -11,9 +11,9 @@
   - socket.io-client-java(https://github.com/socketio/socket.io-client-java)
 
 ### 异步任务
-- robospice(https://github.com/stephanenicolas/robospice)
-- android-priority-jobqueue(https://github.com/path/android-priority-jobqueue)
+- android-priority-jobqueue(https://github.com/yigit/android-priority-jobqueue)
 - tape(https://github.com/square/tape)
+- robospice(https://github.com/stephanenicolas/robospice)
 
 ### 数据处理
 - JSON
@@ -37,48 +37,48 @@
 - ion(https://github.com/koush/ion)
 - android-volley(https://android.googlesource.com/platform/frameworks/volley)
     - RxVolley(https://github.com/kymjs/RxVolley)
-- image-loader(https://github.com/novoda/image-loader)
 - DiskLruCache(https://github.com/JakeWharton/DiskLruCache)
 
 ### Storage & DataBase & ORM
 - Database
-    - realm-java(https://github.com/realm/realm-java):Realm is a mobile database: a replacement for SQLite & ORMs
+    - realm-java(https://github.com/realm/realm-java)
     - sqlcipher(https://github.com/sqlcipher/sqlcipher)
-    - hawk(https://github.com/orhanobut/hawk):Secure Simple Key-Value Storage for Android
+    - hawk(https://github.com/orhanobut/hawk)
     - squidb(https://github.com/yahoo/squidb)
 - ORM
     - greenDAO(https://github.com/greenrobot/greenDAO)
-    - ActiveAndroid(https://github.com/pardom/ActiveAndroid)
     - ormlite-core(https://github.com/j256/ormlite-core)
     - ormlite-android(https://github.com/j256/ormlite-android)
-    - sugar(https://github.com/satyan/sugar)
-    - LitePal(https://github.com/LitePalFramework/LitePal)
     - mybatis-3(https://github.com/mybatis/mybatis-3)
     - Hibernate(http://hibernate.org/orm/)
 - SQLiteDatabase/ContentResolver Utils
     - storio(https://github.com/pushtorefresh/storio)
+    - sugar(https://github.com/satyan/sugar)
+    - LitePal(https://github.com/LitePalFramework/LitePal)
     - android-sqlite-asset-helper(https://github.com/jgilfelt/android-sqlite-asset-helper)
     - android-database-sqlcipher(https://github.com/sqlcipher/android-database-sqlcipher)
     - sqlite-provider(https://github.com/novoda/sqlite-provider)
 
 ### 设计模式
-- java-design-patterns（https://github.com/iluwatar/java-design-patterns）
-- androidmvp(https://github.com/antoniolg/androidmvp)
-- android-mvp-pattern(https://github.com/kaedea/android-mvp-pattern)
-- EffectiveAndroidUI(https://github.com/pedrovgs/EffectiveAndroidUI)
-- Android-Clean-Boilerplate(https://github.com/dmilicic/Android-Clean-Boilerplate)
+- java-design-patterns(https://github.com/iluwatar/java-design-patterns)
+- MVP & MVVM
+  - androidmvp(https://github.com/antoniolg/androidmvp)
+  - android-mvp-pattern(https://github.com/kaedea/android-mvp-pattern)
+  - EffectiveAndroidUI(https://github.com/pedrovgs/EffectiveAndroidUI)
+- CleanArchitecture
+  - Android-Clean-Boilerplate(https://github.com/dmilicic/Android-Clean-Boilerplate)
     - http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html
     - http://www.cnblogs.com/happyframework/p/3632703.html
-- Android-CleanArchitecture(https://github.com/android10/Android-CleanArchitecture)
-- Rosie(https://github.com/Karumi/Rosie)
+  - Android-CleanArchitecture(https://github.com/android10/Android-CleanArchitecture)
+  - Rosie(https://github.com/Karumi/Rosie)
 
 ### 依赖注入
-- butterknife（https://github.com/JakeWharton/butterknife）
+- butterknife(https://github.com/JakeWharton/butterknife)
     - android-butterknife-zelezny(https://github.com/avast/android-butterknife-zelezny)
 - dagger(https://github.com/square/dagger)
 - dagger2(https://github.com/google/dagger)
 - guice(https://github.com/google/guice)
-- roboguice(https://github.com/roboguice/roboguice)
+  - roboguice(https://github.com/roboguice/roboguice)
 - Android Annotation(http://developer.android.com/intl/zh-cn/tools/debugging/annotations.html)
 - androidannotations(https://github.com/excilys/androidannotations)
 - jackson-annotations(https://github.com/FasterXML/jackson-annotations)
@@ -86,12 +86,21 @@
 ### 数据绑定（Data Binding）
 - RoboBinding(https://github.com/RoboBinding/RoboBinding)
 - Android official(http://developer.android.com/intl/zh-cn/tools/data-binding/guide.html)
+  - MasteringAndroidDataBinding(https://github.com/LyndonChin/MasteringAndroidDataBinding)
 - jackson-databind(https://github.com/FasterXML/jackson-databind)
-- 案例：MasteringAndroidDataBinding(https://github.com/LyndonChin/MasteringAndroidDataBinding)
 
 ### 事件、响应式编程
 - RxJava(https://github.com/ReactiveX/RxJava)
-- RxAndroid(https://github.com/ReactiveX/RxAndroid)
+  - RxAndroid(https://github.com/ReactiveX/RxAndroid)
+  - RxSensor(https://github.com/wandup/RxSensor)
+  - RxCamera(https://github.com/ragnraok/RxCamera)
+  - RxAndroidBle(https://github.com/Polidea/RxAndroidBle)
+  - RxJavaSamples(https://github.com/rengwuxian/RxJavaSamples)
+  - RxBinding(https://github.com/JakeWharton/RxBinding)
+  - reark(https://github.com/reark/reark)
+  - RxLifecycle(https://github.com/trello/RxLifecycle)
+  - Android-ReactiveLocation(https://github.com/mcharmas/Android-ReactiveLocation)
+  - RxPermissions(https://github.com/tbruyelle/RxPermissions)
 - EventBus（https://github.com/greenrobot/EventBus）
 - otto(https://github.com/square/otto)
 - 相关讨论
@@ -99,15 +108,6 @@
     - https://github.com/bboyfeiyu/android-tech-frontier/blob/master/issue-16/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8EventBus.md
     - http://nerds.weddingpartyapp.com/tech/2014/12/24/implementing-an-event-bus-with-rxjava-rxbus/
     - https://github.com/lzyzsd/Awesome-RxJava
-- RxSensor(https://github.com/wandup/RxSensor)
-- RxCamera(https://github.com/ragnraok/RxCamera)
-- RxAndroidBle(https://github.com/Polidea/RxAndroidBle)
-- RxJavaSamples(https://github.com/rengwuxian/RxJavaSamples)
-- RxBinding(https://github.com/JakeWharton/RxBinding)
-- reark(https://github.com/reark/reark)
-- RxLifecycle(https://github.com/trello/RxLifecycle)
-- Android-ReactiveLocation(https://github.com/mcharmas/Android-ReactiveLocation)
-- RxPermissions(https://github.com/tbruyelle/RxPermissions)
 
 ### 测试框架
 - android-testing(https://github.com/googlesamples/android-testing)
@@ -119,28 +119,37 @@
 - assertj-android(https://github.com/square/assertj-android)
 
 ### 性能、优化、调试
-- acra(https://github.com/ACRA/acra)
-- leakcanary(https://github.com/square/leakcanary)
-- stetho(https://github.com/facebook/stetho)
-- blockcanary(https://github.com/moduth/blockcanary)
+- 崩溃上报
+  - acra(https://github.com/ACRA/acra)
+- UI优化
+  - blockcanary(https://github.com/moduth/blockcanary)
+  - CustomActivityOnCrash(https://github.com/Ereza/CustomActivityOnCrash)
+  - ViewServer(https://github.com/romainguy/ViewServer)
+- 安装包
+  - dex-method-counts(https://github.com/mihaip/dex-method-counts)
+  - dex-method-list(https://github.com/JakeWharton/dex-method-list)
+  - Small(https://github.com/wequick/Small)
+- 内存 & 性能 & 电量
+  - leakcanary(https://github.com/square/leakcanary)
+  - spoon(https://github.com/square/spoon)
+- 调试工具
+  - AndroidWiFiADB(https://github.com/pedrovgs/AndroidWiFiADB)
+  - stetho(https://github.com/facebook/stetho)
+- 进程优化
+  - AndroidProcess(https://github.com/wenmingvs/AndroidProcess)
 - fabric(https://get.fabric.io/)
-- CustomActivityOnCrash(https://github.com/Ereza/CustomActivityOnCrash)
-- ViewServer(https://github.com/romainguy/ViewServer)
-- dex-method-counts(https://github.com/mihaip/dex-method-counts)
-- Small(https://github.com/wequick/Small)
-- AndroidProcess(https://github.com/wenmingvs/AndroidProcess)
-- AndroidWiFiADB(https://github.com/pedrovgs/AndroidWiFiADB)
-- battery-historian(https://github.com/google/battery-historian)
-- dex-method-list(https://github.com/JakeWharton/dex-method-list)
-- spoon(https://github.com/square/spoon)
-- enjarify(https://github.com/google/enjarify)
+
+### 日志相关
+- timber(https://github.com/JakeWharton/timber)
+- logger(https://github.com/orhanobut/logger)
+- KLog(https://github.com/ZhaoKaiQiang/KLog)
+- puree-android(https://github.com/cookpad/puree-android)
 
 ### 免安装、动态加载
 - DroidPlugin(https://github.com/DroidPluginTeam/DroidPlugin)
-- dynamic-load-apk(https://github.com/singwhatiwanna/dynamic-load-apk)
+- AndFix(https://github.com/alibaba/AndFix)
 - ACDD(https://github.com/bunnyblue/ACDD)
 - AndroidDynamicLoader(https://github.com/mmin18/AndroidDynamicLoader)
-- AndFix(https://github.com/alibaba/AndFix)
 
 ### 逆向工程、安全
 - Apktool(https://github.com/iBotPeaches/Apktool)
@@ -148,19 +157,18 @@
 - jd-gui(https://github.com/java-decompiler/jd-gui)
 - dex2jar(https://github.com/pxb1988/dex2jar)
 - dexposed(https://github.com/alibaba/dexposed)
-- XposedBridge(https://github.com/rovo89/XposedBridge)
-- XposedInstaller(https://github.com/rovo89/XposedInstaller)
 - Xposed(https://github.com/rovo89/Xposed)
 - libsuperuser(https://github.com/Chainfire/libsuperuser)
 - bytecode-viewer(https://github.com/Konloch/bytecode-viewer)
+- enjarify(https://github.com/google/enjarify)
 - android-classyshark(https://github.com/google/android-classyshark)
+
 
 ### CI & 渠道 & 统计 & 推广
 - jenkins(https://github.com/jenkinsci/jenkins)
-    - hudson(https://github.com/kohsuke/hudson) (Deprecated)
 - Travis CI(https://travis-ci.org/)
 - CircleCI(https://circleci.com/)
-- fastlane(https://github.com/fastlane/fastlane) Auto Deployment Tools
+- fastlane(https://github.com/fastlane/fastlane)
     - https://krausefx.com/blog/fastlane-is-now-part-of-fabric
     - http://www.infoq.com/cn/news/2015/01/fastlane-ios-continuous-deploy
 - packer-ng-plugin(https://github.com/mcxiaoke/packer-ng-plugin)
@@ -178,12 +186,6 @@
 - welcome-coordinator(https://github.com/txusballesteros/welcome-coordinator)
 - AppIntro(https://github.com/PaoloRotolo/AppIntro)
 - ProductTour(https://github.com/matrixxun/ProductTour)
-
-### 日志相关
-- timber(https://github.com/JakeWharton/timber)
-- logger(https://github.com/orhanobut/logger)
-- KLog(https://github.com/ZhaoKaiQiang/KLog)
-- puree-android(https://github.com/cookpad/puree-android)
 
 ### 软件更新
 - changeloglib(https://github.com/gabrielemariotti/changeloglib)
