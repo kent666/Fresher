@@ -6,7 +6,6 @@
   - okhttp(https://github.com/square/okhttp)
   - android-async-http(https://github.com/loopj/android-async-http)
   - google-http-java-client(https://github.com/google/google-http-java-client)
-  - whiskey(https://github.com/twitter/whiskey)
 - Socket
   - AndroidAsync(https://github.com/koush/AndroidAsync)
   - socket.io-client-java(https://github.com/socketio/socket.io-client-java)
