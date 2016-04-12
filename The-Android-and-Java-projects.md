@@ -585,7 +585,7 @@
 - zxing(https://github.com/zxing/zxing)
 - android-UniversalMusicPlayer(https://github.com/googlesamples/android-UniversalMusicPlayer)
 - android-bootstrap(https://github.com/AndroidBootstrap/android-bootstrap)
-- u2020(https://github.com/JakeWharton/u2020) (Demo for Dagger)
+- u2020(https://github.com/JakeWharton/u2020)
     - https://www.parleys.com/tutorial/architecting-android-applications-dagger
 - ExoPlayer(https://github.com/google/ExoPlayer)
 - k-9(https://github.com/k9mail/k-9)
@@ -666,7 +666,7 @@
 - android-tutorial(https://github.com/wliday/android-tutorial)
 - android-open-project(https://github.com/Trinea/android-open-project)
 - awesome-android-ui(https://github.com/wasabeef/awesome-android-ui)
-- AndroidHeroes(https://github.com/xuyisheng/AndroidHeroes)(Android群英传 源码)
+- AndroidHeroes(https://github.com/xuyisheng/AndroidHeroes)
 - AndroidDevTools(https://github.com/inferjay/AndroidDevTools)
 - android-libraries-and-resources(https://github.com/alamkanak/android-libraries-and-resources)
 
@@ -689,7 +689,7 @@
 ### Java Web
 - spring-framework(https://github.com/spring-projects/spring-framework)
 - spring-boot(https://github.com/spring-projects/spring-boot)
-- physical-web(https://github.com/google/physical-web)（web互联互通）
+- physical-web(https://github.com/google/physical-web)
 - SimianArmy(https://github.com/Netflix/SimianArmy)
 - OGC
     - geoserver(https://github.com/geoserver/geoserver)
@@ -699,13 +699,13 @@
 - rest.li(https://github.com/linkedin/rest.li)
 
 ### Lang & 扩展
-- guava(https://github.com/google/guava):Google Core Libraries for Java 6+
+- guava(https://github.com/google/guava)
 - retrolambda(https://github.com/orfjackal/retrolambda)
 - javacpp(https://github.com/bytedeco/javacpp)
 - kotlin(https://github.com/JetBrains/kotlin)
 
 ### Java工具集
-- jimfs(https://github.com/google/jimfs):An in-memory file system for Java 7+
+- jimfs(https://github.com/google/jimfs)
 - JGroups(https://github.com/belaban/JGroups)
 - gridgain(https://github.com/gridgain/gridgain)
 - HanLP(https://github.com/hankcs/HanLP)
