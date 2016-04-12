@@ -5,6 +5,7 @@
   - retrofit(https://github.com/square/retrofit)
   - okhttp(https://github.com/square/okhttp)
   - android-async-http(https://github.com/loopj/android-async-http)
+  - google-http-java-client(https://github.com/google/google-http-java-client)
   - whiskey(https://github.com/twitter/whiskey)
 - Socket
   - AndroidAsync(https://github.com/koush/AndroidAsync)
@@ -81,10 +82,12 @@
 - roboguice(https://github.com/roboguice/roboguice)
 - Android Annotation(http://developer.android.com/intl/zh-cn/tools/debugging/annotations.html)
 - androidannotations(https://github.com/excilys/androidannotations)
+- jackson-annotations(https://github.com/FasterXML/jackson-annotations)
 
 ### 数据绑定（Data Binding）
 - RoboBinding(https://github.com/RoboBinding/RoboBinding)
 - Android official(http://developer.android.com/intl/zh-cn/tools/data-binding/guide.html)
+- jackson-databind(https://github.com/FasterXML/jackson-databind)
 - 案例：MasteringAndroidDataBinding(https://github.com/LyndonChin/MasteringAndroidDataBinding)
 
 ### 事件、响应式编程
