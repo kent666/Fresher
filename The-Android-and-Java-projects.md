@@ -191,17 +191,20 @@
 - changeloglib(https://github.com/gabrielemariotti/changeloglib)
 - AppUpdater(https://github.com/javiersantos/AppUpdater)
 
-### 相机、相册、图片处理、二维码
-- uCrop(https://github.com/Yalantis/uCrop)
-- cropper(https://github.com/edmodo/cropper)
-- GalleryFinal(https://github.com/pengjianbo/GalleryFinal)
-- image-chooser-library(https://github.com/coomar2841/image-chooser-library)
-- cropimage(https://github.com/biokys/cropimage)
-- android-crop(https://github.com/jdamcd/android-crop)
-- StickerCamera(https://github.com/Skykai521/StickerCamera)
-- SimpleCropView(https://github.com/IsseiAoki/SimpleCropView)
-- scissors(https://github.com/lyft/scissors)
-- barcodescanner(https://github.com/dm77/barcodescanner)
+#### 图片处理相关
+- 图片处理
+  - uCrop(https://github.com/Yalantis/uCrop)
+  - cropper(https://github.com/edmodo/cropper)
+  - cropimage(https://github.com/biokys/cropimage)
+  - android-crop(https://github.com/jdamcd/android-crop)
+  - SimpleCropView(https://github.com/IsseiAoki/SimpleCropView)
+  - scissors(https://github.com/lyft/scissors)
+- 相册 & Image Chooser
+  - GalleryFinal(https://github.com/pengjianbo/GalleryFinal)
+  - image-chooser-library(https://github.com/coomar2841/image-chooser-library)
+  - StickerCamera(https://github.com/Skykai521/StickerCamera)
+- 二维码
+  - barcodescanner(https://github.com/dm77/barcodescanner)
 
 ### 文件管理
 - FileDownloader(https://github.com/lingochamp/FileDownloader)
@@ -209,17 +212,20 @@
 - ExFilePicker(https://github.com/bartwell/ExFilePicker)
 - Android-DirectoryChooser(https://github.com/passy/Android-DirectoryChooser)
 
-### 取色器
+### 选取器 & 取色器
 - HoloColorPicker(https://github.com/LarsWerkman/HoloColorPicker)
 - android-betterpickers(https://github.com/code-troopers/android-betterpickers)
 - SublimePicker(https://github.com/vikramkakkar/SublimePicker)
 - colorpicker(https://github.com/flavienlaurent/colorpicker)
 
+### 焕肤
+- AndroidChangeSkin(https://github.com/hongyangAndroid/AndroidChangeSkin)
+
 ### 阅读器、文本处理、表单
 - Android-Validator(https://github.com/throrin19/Android-Validator)
 - android-edittext-validator(https://github.com/vekexasia/android-edittext-validator)
 - TextJustify-Android(https://github.com/bluejamesbond/TextJustify-Android)
-- android-saripaar(https://github.com/ragunathjawahar/android-saripaar)、
+- android-saripaar(https://github.com/ragunathjawahar/android-saripaar)
 - android-pdfview(https://github.com/JoanZapata/android-pdfview)
 - Android-TextView-LinkBuilder(https://github.com/klinker24/Android-TextView-LinkBuilder)
 - richeditor-android(https://github.com/wasabeef/richeditor-android)
@@ -228,9 +234,6 @@
 ### 时间、日期、国际化
 - device-year-class(https://github.com/facebook/device-year-class)
 - joda-time-android(https://github.com/dlew/joda-time-android)
-
-### 焕肤
-- AndroidChangeSkin(https://github.com/hongyangAndroid/AndroidChangeSkin)
 
 ### 滑动锁屏
 - GlowPadView(https://github.com/nadavfima/GlowPadView)
