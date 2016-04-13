@@ -61,6 +61,7 @@
 
 ### 设计模式
 - java-design-patterns(https://github.com/iluwatar/java-design-patterns)
+- android-architecture(https://github.com/googlesamples/android-architecture)
 - MVP & MVVM
   - androidmvp(https://github.com/antoniolg/androidmvp)
   - android-mvp-pattern(https://github.com/kaedea/android-mvp-pattern)
