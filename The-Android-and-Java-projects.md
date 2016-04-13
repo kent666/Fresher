@@ -117,6 +117,7 @@
 - Robolectric(http://robolectric.org/)
 - mockito(https://github.com/mockito/mockito)
 - assertj-android(https://github.com/square/assertj-android)
+- android-testing(https://github.com/googlesamples/android-testing)
 
 ### 性能、优化、调试
 - 崩溃上报
@@ -162,7 +163,6 @@
 - bytecode-viewer(https://github.com/Konloch/bytecode-viewer)
 - enjarify(https://github.com/google/enjarify)
 - android-classyshark(https://github.com/google/android-classyshark)
-
 
 ### CI & 渠道 & 统计 & 推广
 - jenkins(https://github.com/jenkinsci/jenkins)
@@ -245,11 +245,14 @@
 ### 权限提示
 - TedPermission(https://github.com/ParkSangGwon/TedPermission)
 - Dexter(https://github.com/Karumi/Dexter)
+- easypermissions(https://github.com/googlesamples/easypermissions)
+- android-RuntimePermissions(https://github.com/googlesamples/android-RuntimePermissions)
 
 ### 音视频处理
 - VitamioBundle(https://github.com/yixia/VitamioBundle)
 - libstreaming(https://github.com/fyhertz/libstreaming)
 - Telecine(https://github.com/JakeWharton/Telecine)
+- android-Camera2Video(https://github.com/googlesamples/android-Camera2Video)
 
 ### 模板
 - phrase(https://github.com/square/phrase)
