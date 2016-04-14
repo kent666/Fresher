@@ -254,6 +254,7 @@
 - libstreaming(https://github.com/fyhertz/libstreaming)
 - Telecine(https://github.com/JakeWharton/Telecine)
 - android-Camera2Video(https://github.com/googlesamples/android-Camera2Video)
+- LandscapeVideoCamera(https://github.com/JeroenMols/LandscapeVideoCamera)
 
 ### 模板
 - phrase(https://github.com/square/phrase)
@@ -715,9 +716,6 @@
 - HanLP(https://github.com/hankcs/HanLP)
 - smile(https://github.com/haifengl/smile)
 - joda-time(https://github.com/JodaOrg/joda-time)
-
-
-
 
 
 ### 参考

@@ -298,6 +298,7 @@
 - mobileplayer-ios(https://github.com/mobileplayer/mobileplayer-ios)
 - HLS-demo(https://github.com/miniflycn/HLS-demo)
 - Player(https://github.com/piemonte/Player)
+- ZFPlayer(https://github.com/renzifeng/ZFPlayer)
 
 ### Gesture
 - DBPathRecognizer(https://github.com/didierbrun/DBPathRecognizer)
