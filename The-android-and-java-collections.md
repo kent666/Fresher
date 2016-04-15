@@ -143,6 +143,7 @@
 
 ### 日志相关
 - timber(https://github.com/JakeWharton/timber)
+  - pidcat(https://github.com/JakeWharton/pidcat/)
 - logger(https://github.com/orhanobut/logger)
 - KLog(https://github.com/ZhaoKaiQiang/KLog)
 - puree-android(https://github.com/cookpad/puree-android)
