@@ -261,6 +261,7 @@
 - phrase(https://github.com/square/phrase)
 - AndResGuard(https://github.com/shwenzhang/AndResGuard)
 - parceler(https://github.com/johncarl81/parceler)
+- auto(https://github.com/google/auto)
 
 ### 跨平台
 - node-android(https://github.com/InstantWebP2P/node-android)
