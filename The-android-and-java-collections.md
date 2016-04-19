@@ -165,6 +165,8 @@
 - bytecode-viewer(https://github.com/Konloch/bytecode-viewer)
 - enjarify(https://github.com/google/enjarify)
 - android-classyshark(https://github.com/google/android-classyshark)
+- spongycastle(https://github.com/rtyley/spongycastle)
+- bc-java(https://github.com/bcgit/bc-java)
 
 ### CI & 渠道 & 统计 & 推广
 - jenkins(https://github.com/jenkinsci/jenkins)
