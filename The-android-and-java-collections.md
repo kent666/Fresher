@@ -45,6 +45,7 @@
     - sqlcipher(https://github.com/sqlcipher/sqlcipher)
     - hawk(https://github.com/orhanobut/hawk)
     - squidb(https://github.com/yahoo/squidb)
+    - leveldb(https://github.com/google/leveldb)
 - ORM
     - greenDAO(https://github.com/greenrobot/greenDAO)
     - ormlite-core(https://github.com/j256/ormlite-core)
@@ -147,6 +148,7 @@
 - logger(https://github.com/orhanobut/logger)
 - KLog(https://github.com/ZhaoKaiQiang/KLog)
 - puree-android(https://github.com/cookpad/puree-android)
+- slf4j(https://github.com/qos-ch/slf4j)
 
 ### 免安装、动态加载
 - DroidPlugin(https://github.com/DroidPluginTeam/DroidPlugin)
@@ -251,6 +253,7 @@
 - Dexter(https://github.com/Karumi/Dexter)
 - easypermissions(https://github.com/googlesamples/easypermissions)
 - android-RuntimePermissions(https://github.com/googlesamples/android-RuntimePermissions)
+- PermissionsDispatcher(https://github.com/hotchemi/PermissionsDispatcher)
 
 ### 音视频处理
 - VitamioBundle(https://github.com/yixia/VitamioBundle)
@@ -276,6 +279,7 @@
 - xUtils3(https://github.com/wyouflf/xUtils3)
 - apk-downloader(https://github.com/Lekensteyn/apk-downloader)
 - anko(https://github.com/Kotlin/anko)
+- Bolts-Android(https://github.com/BoltsFramework/Bolts-Android)
 
 ### 游戏引擎
 - libgdx(https://github.com/libgdx/libgdx)
@@ -724,3 +728,4 @@
 
 ### 参考
 - http://weibo.com/GitHubDaily
+- http://www.appbrain.com/stats
