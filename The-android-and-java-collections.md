@@ -1,4 +1,4 @@
-# Android/Java 项目篇
+ # Android/Java 项目篇
 
 ### HTTP & Socket
 - HTTP
@@ -128,6 +128,7 @@
   - blockcanary(https://github.com/moduth/blockcanary)
   - CustomActivityOnCrash(https://github.com/Ereza/CustomActivityOnCrash)
   - ViewServer(https://github.com/romainguy/ViewServer)
+  - scalpel(https://github.com/JakeWharton/scalpel)
 - 安装包
   - dex-method-counts(https://github.com/mihaip/dex-method-counts)
   - dex-method-list(https://github.com/JakeWharton/dex-method-list)
@@ -664,6 +665,7 @@
 - Compass(https://github.com/MiCode/Compass)
 - Telegram(https://github.com/DrKLO/Telegram)
 - shadowsocks-android(https://github.com/shadowsocks/shadowsocks-android)
+- DMPlayer(https://github.com/dibakarece/DMPlayer)
 
 ### Android Best Practices
 - android-best-practices(https://github.com/futurice/android-best-practices)
