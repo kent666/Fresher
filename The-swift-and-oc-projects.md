@@ -229,6 +229,7 @@
 - Nuke(https://github.com/kean/Nuke)
 - AlamofireImage(https://github.com/Alamofire/AlamofireImage)
 - APNGKit(https://github.com/onevcat/APNGKit)
+- FastImageCache(https://github.com/path/FastImageCache)
 
 ### 相册 & 图片处理 & 选择器 & Gif & Emoji
 - Toucan(https://github.com/gavinbunney/Toucan)
@@ -389,6 +390,7 @@
 - Validator(https://github.com/adamwaite/Validator)
 - NextGrowingTextView(https://github.com/muukii/NextGrowingTextView)
 - LTBouncyPlaceholder(https://github.com/lexrus/LTBouncyPlaceholder)
+- FormatterKit(https://github.com/mattt/FormatterKit)
 
 ### ProgressBar
 - KYCircularProgress(https://github.com/kentya6/KYCircularProgress)
