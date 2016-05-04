@@ -477,6 +477,7 @@
 - KGFloatingDrawer(https://github.com/KyleGoddard/KGFloatingDrawer)
 - Fira(https://github.com/mozilla/Fira)
 - MaterialColorsApp(https://github.com/romannurik/MaterialColorsApp)
+- FlagKit(https://github.com/madebybowtie/FlagKit)
 
 ### APP
 - FlappySwift(https://github.com/fullstackio/FlappySwift)
