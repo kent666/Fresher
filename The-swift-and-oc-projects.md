@@ -480,7 +480,7 @@
 
 ### APP
 - FlappySwift(https://github.com/fullstackio/FlappySwift)
-- Aerial(https://github.com/JohnCoates/Aerial):Screensaver
+- Aerial(https://github.com/JohnCoates/Aerial)
 - Yep(https://github.com/CatchChat/Yep)
 - SwiftWeather(https://github.com/JakeLin/SwiftWeather)
 - WWDC(https://github.com/insidegui/WWDC)
