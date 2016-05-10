@@ -1,25 +1,24 @@
 # Swift项目篇
 
-### 代码规范
-- [SwiftLint](https://github.com/realm/SwiftLint)
-
-### 设计模式
+### 设计模式、算法和数据结构
 - [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
-
-### 事件、响应式编程 & KVO
-- [Swiftz](https://github.com/typelift/Swiftz)
-- [RxSwift](https://github.com/ReactiveX/RxSwift)
-- [ReduxKit](https://github.com/ReduxKit/ReduxKit)
-- [ReactKit](https://github.com/ReactKit/ReactKit)
-- [Observable-Swift](https://github.com/slazyk/Observable-Swift)
-- [RxSwift](https://github.com/jspahrsummers/RxSwift)
-- [PeerKit](https://github.com/jpsim/PeerKit)
-- [emitter-kit](https://github.com/aleclarson/emitter-kit)
-
-### 算法、数据结构
 - [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club)
 - [SwiftStructures](https://github.com/waynewbishop/SwiftStructures)
 - [SwiftAlgorithmsClassroom](https://github.com/gmertk/SwiftAlgorithmsClassroom)
+
+### 函数式、事件、响应式编程 & KVO
+- 函数式
+  - [Swiftz](https://github.com/typelift/Swiftz)
+
+- 响应式
+  - [RxSwift](https://github.com/ReactiveX/RxSwift)
+    - [ReduxKit](https://github.com/ReduxKit/ReduxKit)
+  - [ReactKit](https://github.com/ReactKit/ReactKit)
+  - [PeerKit](https://github.com/jpsim/PeerKit)
+  - [emitter-kit](https://github.com/aleclarson/emitter-kit)
+
+- KVO
+  - [Observable-Swift](https://github.com/slazyk/Observable-Swift)
 
 ### Server & Web
 - [Perfect](https://github.com/PerfectlySoft/Perfect)
@@ -49,6 +48,9 @@
 - [SwiftFoundation](https://github.com/PureSwift/SwiftFoundation)
 - [Dollar](https://github.com/ankurp/Dollar)
 - [SWRoute](https://github.com/rodionovd/SWRoute)
+
+- 代码规范
+  - [SwiftLint](https://github.com/realm/SwiftLint)
 
 - Template
   - [Stencil](https://github.com/kylef/Stencil)
@@ -592,6 +594,5 @@
 
 ### SDK
 - [Swifter](https://github.com/mattdonnelly/Swifter)
-
 
 https://github.com/search?o=desc&p=44&q=language%3Aswift&ref=cmdform&s=stars&type=Repositories
