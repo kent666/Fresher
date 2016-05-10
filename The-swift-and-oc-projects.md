@@ -1,88 +1,13 @@
-# Swift/Objective-C 项目篇
+# Swift项目篇
 
-### 设计模式 & 编程方法
-- Design-Patterns-In-Swift(https://github.com/ochococo/Design-Patterns-In-Swift)
-- Swiftz(https://github.com/typelift/Swiftz)
-- ReSwift(https://github.com/ReSwift/ReSwift)
-- ReduxKit(https://github.com/ReduxKit/ReduxKit)
-- WebShell(https://github.com/djyde/WebShell)
-
-### 算法和数据结构
-- swift-algorithm-club(https://github.com/hollance/swift-algorithm-club)
-- SwiftStructures(https://github.com/waynewbishop/SwiftStructures)
-- SwiftAlgorithmsClassroom(https://github.com/gmertk/SwiftAlgorithmsClassroom)
-
-### Server & Web
-- Perfect(https://github.com/PerfectlySoft/Perfect)
-- vapor(https://github.com/qutheory/vapor)
-- Kitura(https://github.com/IBM-Swift/Kitura)
-- blackfish(https://github.com/elliottminns/blackfish)
-- Zewo(https://github.com/Zewo/Zewo)
-- Express(https://github.com/crossroadlabs/Express)
-- Frank(https://github.com/nestproject/Frank)
-- WKZombie(https://github.com/mkoehnke/WKZombie)
-- siesta(https://github.com/bustoutsolutions/siesta)
-
-### Lang Integration & Extension
-- Swifton(https://github.com/necolt/Swifton)
-- mal(https://github.com/kanaka/mal)
-- Then(https://github.com/devxoul/Then)
-- Stencil(https://github.com/kylef/Stencil)
-- Parsimmon(https://github.com/ayanonagon/Parsimmon)
-- Literally(https://github.com/mattt/Literally)
-- GRMustache.swift(https://github.com/groue/GRMustache.swift)
-- SwiftVerbalExpressions(https://github.com/VerbalExpressions/SwiftVerbalExpressions)
-- Runes(https://github.com/thoughtbot/Runes)
-- swift-evolution(https://github.com/apple/swift-evolution)
-- DeepLearningKit(https://github.com/DeepLearningKit/DeepLearningKit)
-
-### CI & 依赖管理 & 渠道 & 统计 & 推广
-- Carthage(https://github.com/Carthage/Carthage)
-- CocoaPods(https://github.com/CocoaPods/CocoaPods)
-- Specs(https://github.com/CocoaPods/Specs)
-- swift-package-manager(https://github.com/apple/swift-package-manager)
-- URLNavigator(https://github.com/devxoul/URLNavigator)
-- Appz(https://github.com/SwiftKitz/Appz)
-- brew(https://github.com/Homebrew/brew)
-
-### HTTP & Socket
-- Alamofire(https://github.com/Alamofire/Alamofire)
-- Moya(https://github.com/Moya/Moya)
-- Starscream(https://github.com/daltoniam/Starscream)
-- SwiftHTTP(https://github.com/daltoniam/SwiftHTTP)
-- socket.io-client-swift(https://github.com/socketio/socket.io-client-swift)
-- Taylor(https://github.com/izqui/Taylor)
-- Pitaya(https://github.com/johnlui/Pitaya)
-- Just(https://github.com/JustHTTP/Just)
-- agent(https://github.com/hallas/agent)
-- APIKit(https://github.com/ishkawa/APIKit)
-- Mockingjay(https://github.com/kylef/Mockingjay)
-- swift-http(https://github.com/huytd/swift-http)
-- SwiftWebSocket(https://github.com/tidwall/SwiftWebSocket)
-- BigBrother(https://github.com/marcelofabri/BigBrother)
-- DVR(https://github.com/venmo/DVR)
-
-### 代码规范
-- SwiftLint(https://github.com/realm/SwiftLint)
-
-### 性能优化 & Debug & 实用工具
+- [DeepLearningKit](https://github.com/DeepLearningKit/DeepLearningKit)
 - androidtool-mac(https://github.com/mortenjust/androidtool-mac)
 - Dollar(https://github.com/ankurp/Dollar)
 - ExSwift(https://github.com/pNre/ExSwift)
-- Reachability.swift(https://github.com/ashleymills/Reachability.swift)
-- SwiftGen(https://github.com/AliSoftware/SwiftGen)
-- R.swift(https://github.com/mac-cain13/R.swift)
-- netfox(https://github.com/kasketis/netfox)
-- Hue(https://github.com/hyperoslo/Hue)
 - PKHUD(https://github.com/pkluz/PKHUD)
 - Nimble(https://github.com/Quick/Nimble)
-- Watchdog(https://github.com/wojteklu/Watchdog)
 - Popsicle(https://github.com/DavdRoman/Popsicle)  ?
-- SwiftString(https://github.com/amayne/SwiftString)
-- BluetoothKit(https://github.com/rasmusth/BluetoothKit)
 - VWInstantRun(https://github.com/wangshengjia/VWInstantRun)
-- Format(https://github.com/marmelroy/Format)
-- SwiftyBeaver(https://github.com/SwiftyBeaver/SwiftyBeaver)
 - Venice(https://github.com/VeniceX/Venice)
 - EZSwiftExtensions(https://github.com/goktugyil/EZSwiftExtensions)
 - PhoneNumberKit(https://github.com/marmelroy/PhoneNumberKit)
@@ -127,129 +52,222 @@
 - STLocationRequest(https://github.com/SvenTiigi/STLocationRequest)
 - TouchVisualizer(https://github.com/morizotter/TouchVisualizer)
 
-### 缓存框架
-- AwesomeCache(https://github.com/aschuch/AwesomeCache)
+### 代码规范
+- [SwiftLint](https://github.com/realm/SwiftLint)
+
+### 设计模式
+- [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+
+### 事件、响应式编程 & KVO
+- [Swiftz](https://github.com/typelift/Swiftz)
+- [RxSwift](https://github.com/ReactiveX/RxSwift)
+- [ReduxKit](https://github.com/ReduxKit/ReduxKit)
+- [ReactKit](https://github.com/ReactKit/ReactKit)
+- [Observable-Swift](https://github.com/slazyk/Observable-Swift)
+- [RxSwift](https://github.com/jspahrsummers/RxSwift)
+- [PeerKit](https://github.com/jpsim/PeerKit)
+- [emitter-kit](https://github.com/aleclarson/emitter-kit)
+
+### 算法、数据结构
+- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club)
+- [SwiftStructures](https://github.com/waynewbishop/SwiftStructures)
+- [SwiftAlgorithmsClassroom](https://github.com/gmertk/SwiftAlgorithmsClassroom)
+
+### Server & Web
+- [Perfect](https://github.com/PerfectlySoft/Perfect)
+- [vapor](https://github.com/qutheory/vapor)
+- [Kitura](https://github.com/IBM-Swift/Kitura)
+- [blackfish](https://github.com/elliottminns/blackfish)
+- [Zewo](https://github.com/Zewo/Zewo)
+- [Express](https://github.com/crossroadlabs/Express)
+- [WKZombie](https://github.com/mkoehnke/WKZombie)
+- [siesta](https://github.com/bustoutsolutions/siesta)
+- [Frank](https://github.com/nestproject/Frank)
+- [Swifton](https://github.com/necolt/Swifton)
+
+### Lang Integration & Extension
+- [mal](https://github.com/kanaka/mal)
+- [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions)
+- [Runes](https://github.com/thoughtbot/Runes)
+- [swift-evolution](https://github.com/apple/swift-evolution)
+- [Parsimmon](https://github.com/ayanonagon/Parsimmon)
+
+- Template
+  - [Stencil](https://github.com/kylef/Stencil)
+  - [GRMustache.swift](https://github.com/groue/GRMustache.swift)
+
+- syntactic sugar
+  - [Then](https://github.com/devxoul/Then)
+
+- 代码生成
+  - [SwiftGen](https://github.com/AliSoftware/SwiftGen)
+
+### CI & 依赖管理 & 渠道 & 统计 & 推广
+- 依赖管理
+  - [Carthage](https://github.com/Carthage/Carthage)
+  - [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+  - [swift-package-manager](https://github.com/apple/swift-package-manager)
+  - [brew](https://github.com/Homebrew/brew)
+  - [Specs](https://github.com/CocoaPods/Specs)
+
+- DeepLink
+  - [Appz](https://github.com/SwiftKitz/Appz)
+  - [URLNavigator](https://github.com/devxoul/URLNavigator)
+
+### HTTP & Socket & NetWork
+- HTTP
+  - [Alamofire](https://github.com/Alamofire/Alamofire)
+    - [BigBrother](https://github.com/marcelofabri/BigBrother)
+  - [Moya](https://github.com/Moya/Moya)\
+  - [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP)
+  - [Taylor](https://github.com/izqui/Taylor)
+  - [Pitaya](https://github.com/johnlui/Pitaya)
+  - [Just](https://github.com/JustHTTP/Just)
+  - [agent](https://github.com/hallas/agent)
+  - [APIKit](https://github.com/ishkawa/APIKit)
+  - [Mockingjay](https://github.com/kylef/Mockingjay)
+  - [swift-http](https://github.com/huytd/swift-http)
+
+- Websockets
+  - [Starscream](https://github.com/daltoniam/Starscream)
+  - [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift)
+  - [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket)
+
+- NetWorkTest
+  - [DVR](https://github.com/venmo/DVR)
+  - [netfox](https://github.com/kasketis/netfox)
+
+- 网络状态
+  - [Reachability.swift](https://github.com/ashleymills/Reachability.swift)
+
+### 字符串、资源文件
+- [R.swift](https://github.com/mac-cain13/R.swift)
+- [SwiftString](https://github.com/amayne/SwiftString)
+
+### Formatter
+- [Format](https://github.com/marmelroy/Format)
+
+### Color Utils
+- [Hue](https://github.com/hyperoslo/Hue)
+
+### BLE
+- [BluetoothKit](https://github.com/rasmusth/BluetoothKit)
 
 ### 测试框架
 - BDD
-    - Quick(https://github.com/Quick/Quick)
-    - Sleipnir(https://github.com/railsware/Sleipnir)
-        - http://railsware.com/blog/2014/07/04/bdd-style-testing-in-swift-with-sleipnir
-- swift-corelibs-xctest(https://github.com/apple/swift-corelibs-xctest)
-- SwiftCov(https://github.com/realm/SwiftCov)
+  - [Quick](https://github.com/Quick/Quick)
+  - [Sleipnir](https://github.com/railsware/Sleipnir)
+    - http://railsware.com/blog/2014/07/04/bdd-style-testing-in-swift-with-sleipnir
+- [swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest)
+- [SwiftCov](https://github.com/realm/SwiftCov)
 
 ### 数据处理
 - JSON
-    - SwiftyJSON(https://github.com/SwiftyJSON/SwiftyJSON)
-    - ObjectMapper(https://github.com/Hearst-DD/ObjectMapper)
-    - Argo(https://github.com/thoughtbot/Argo)
-    - JSONExport(https://github.com/Ahmed-Ali/JSONExport)
-    - Freddy(https://github.com/bignerdranch/Freddy)
-    - Alamofire-SwiftyJSON(https://github.com/SwiftyJSON/Alamofire-SwiftyJSON)
-    - Decodable(https://github.com/Anviking/Decodable)
-    - JSONHelper(https://github.com/isair/JSONHelper)
-    - Gloss(https://github.com/hkellaway/Gloss)
-    - json-swift(https://github.com/owensd/json-swift)
-    - AlamofireObjectMapper(https://github.com/tristanhimmelman/AlamofireObjectMapper)
-    - Genome(https://github.com/LoganWright/Genome)
-    - Unbox(https://github.com/JohnSundell/Unbox)
-    - mapper(https://github.com/lyft/mapper)
-    - swift-json(https://github.com/dankogai/swift-json)
-    - JSONCodable(https://github.com/matthewcheok/JSONCodable)
-    - ModelRocket(https://github.com/ovenbits/ModelRocket)
-    - Himotoki(https://github.com/ikesyo/Himotoki)
+  - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+    - [Alamofire-SwiftyJSON](https://github.com/SwiftyJSON/Alamofire-SwiftyJSON)
+  - [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
+  - [Argo](https://github.com/thoughtbot/Argo)
+  - [JSONExport](https://github.com/Ahmed-Ali/JSONExport)
+  - [Freddy](https://github.com/bignerdranch/Freddy)
+  - [Decodable](https://github.com/Anviking/Decodable)
+  - [JSONHelper](https://github.com/isair/JSONHelper)
+  - [Gloss](https://github.com/hkellaway/Gloss)
+  - [json-swift](https://github.com/owensd/json-swift)
+  - [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)
+  - [Genome](https://github.com/LoganWright/Genome)
+  - [Unbox](https://github.com/JohnSundell/Unbox)
+  - [mapper](https://github.com/lyft/mapper)
+  - [swift-json](https://github.com/dankogai/swift-json)
+  - [JSONCodable](https://github.com/matthewcheok/JSONCodable)
+  - [ModelRocket](https://github.com/ovenbits/ModelRocket)
+  - [Himotoki](https://github.com/ikesyo/Himotoki)
 - XML & HTML
-    - Ji(https://github.com/honghaoz/Ji)
-    - SWXMLHash(https://github.com/drmohundro/SWXMLHash)
-    - Kanna(https://github.com/tid-kijyun/Kanna)
-    - AEXML(https://github.com/tadija/AEXML)
-    - HTMLReader(https://github.com/nolanw/HTMLReader)
+  - [Ji](https://github.com/honghaoz/Ji)
+  - [SWXMLHash](https://github.com/drmohundro/SWXMLHash)
+  - [Kanna](https://github.com/tid-kijyun/Kanna)
+  - [AEXML](https://github.com/tadija/AEXML)
+  - [HTMLReader](https://github.com/nolanw/HTMLReader)
 - PB
-    - protobuf-swift(https://github.com/alexeyxo/protobuf-swift)
+  - [protobuf-swift](https://github.com/alexeyxo/protobuf-swift)
 
 ### Storage & DataBase & ORM & CoreData & Data Persistence
-- SQLite.swift(https://github.com/stephencelis/SQLite.swift)
-- Sync(https://github.com/hyperoslo/Sync)
-- SugarRecord(https://github.com/pepibumur/SugarRecord)
-- SwiftyUserDefaults(https://github.com/radex/SwiftyUserDefaults)
-- QueryKit(https://github.com/QueryKit/QueryKit)
-- CoreStore(https://github.com/JohnEstropia/CoreStore)
-- BTree(https://github.com/lorentey/BTree)
-- AlecrimCoreData(https://github.com/Alecrim/AlecrimCoreData)
-- Graph(https://github.com/CosmicMind/Graph)
-- Pantry(https://github.com/nickoneill/Pantry)
-- SwiftData(https://github.com/ryanfowler/SwiftData)
-- fluent(https://github.com/qutheory/fluent)
+- [SQLite.swift](https://github.com/stephencelis/SQLite.swift)
+- [Sync](https://github.com/hyperoslo/Sync)
+- [SugarRecord](https://github.com/pepibumur/SugarRecord)
+- [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)
+- [QueryKit](https://github.com/QueryKit/QueryKit)
+- [CoreStore](https://github.com/JohnEstropia/CoreStore)
+- [BTree](https://github.com/lorentey/BTree)
+- [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData)
+- [Graph](https://github.com/CosmicMind/Graph)
+- [Pantry](https://github.com/nickoneill/Pantry)
+- [SwiftData](https://github.com/ryanfowler/SwiftData)
+- [fluent](https://github.com/qutheory/fluent)
 
 ### 异步任务 & GCD & 队列
-- PromiseKit(https://github.com/mxcl/PromiseKit)
-- Async(https://github.com/duemunk/Async)
-- SwiftTask(https://github.com/ReactKit/SwiftTask)
-- BrightFutures(https://github.com/Thomvis/BrightFutures)
-- Interstellar(https://github.com/JensRavens/Interstellar)
-- TaskQueue(https://github.com/icanzilb/TaskQueue)
-- FutureKit(https://github.com/FutureKit/FutureKit)
-- AsyncDisplayKit(https://github.com/facebook/AsyncDisplayKit)
+- [PromiseKit](https://github.com/mxcl/PromiseKit)
+- [Async](https://github.com/duemunk/Async)
+- [SwiftTask](https://github.com/ReactKit/SwiftTask)
+- [BrightFutures](https://github.com/Thomvis/BrightFutures)
+- [Interstellar](https://github.com/JensRavens/Interstellar)
+- [TaskQueue](https://github.com/icanzilb/TaskQueue)
+- [FutureKit](https://github.com/FutureKit/FutureKit)
+- [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
+- [Watchdog](https://github.com/wojteklu/Watchdog)
 
 ### 登录、校验、安全 & keychain
-- RNCryptor(https://github.com/RNCryptor/RNCryptor)
-- CryptoSwift(https://github.com/krzyzanowskim/CryptoSwift)
-- Locksmith(https://github.com/matthewpalmer/Locksmith)
-- KeychainAccess(https://github.com/kishikawakatsumi/KeychainAccess)
-- OAuthSwift(https://github.com/OAuthSwift/OAuthSwift)
-- SwiftCop(https://github.com/andresinaka/SwiftCop)
+- [RNCryptor](https://github.com/RNCryptor/RNCryptor)
+- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)
+- [Locksmith](https://github.com/matthewpalmer/Locksmith)
+- [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)
+- [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift)
+- [SwiftCop](https://github.com/andresinaka/SwiftCop)
 
 ### 日志 & 文件处理 & 异常 & 错误处理
-- CleanroomLogger(https://github.com/emaloney/CleanroomLogger)
-- XCGLogger(https://github.com/DaveWoodCom/XCGLogger)
-- Result(https://github.com/antitypical/Result)
-- FileBrowser(https://github.com/marmelroy/FileBrowser)
-- PathKit(https://github.com/kylef/PathKit)
-- QorumLogs(https://github.com/goktugyil/QorumLogs)
-- FileKit(https://github.com/nvzqz/FileKit)
-- Log(https://github.com/delba/Log)
-
-### 事件、响应式编程 & KVO
-- RxSwift(https://github.com/ReactiveX/RxSwift)
-- ReactKit(https://github.com/ReactKit/ReactKit)
-- Observable-Swift(https://github.com/slazyk/Observable-Swift)
-- RxSwift(https://github.com/jspahrsummers/RxSwift)
-- PeerKit(https://github.com/jpsim/PeerKit)
-- emitter-kit(https://github.com/aleclarson/emitter-kit)
+- [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
+- [XCGLogger](https://github.com/DaveWoodCom/XCGLogger)
+- [Result](https://github.com/antitypical/Result)
+- [FileBrowser](https://github.com/marmelroy/FileBrowser)
+- [PathKit](https://github.com/kylef/PathKit)
+- [QorumLogs](https://github.com/goktugyil/QorumLogs)
+- [FileKit](https://github.com/nvzqz/FileKit)
+- [Log](https://github.com/delba/Log)
+- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)
 
 ### 数据绑定
-- Bond(https://github.com/SwiftBond/Bond)
+- [Bond](https://github.com/SwiftBond/Bond)
 
 ### 依赖注入
-- Swinject（https://github.com/Swinject/Swinject）
+- [Swinject](https://github.com/Swinject/Swinject)
 
 ### 图片加载、显示、缓存
-- Kingfisher(https://github.com/onevcat/Kingfisher)
-- HanekeSwift(https://github.com/Haneke/HanekeSwift)
-- Nuke(https://github.com/kean/Nuke)
-- AlamofireImage(https://github.com/Alamofire/AlamofireImage)
-- APNGKit(https://github.com/onevcat/APNGKit)
-- FastImageCache(https://github.com/path/FastImageCache)
+- [Kingfisher](https://github.com/onevcat/Kingfisher)
+- [HanekeSwift](https://github.com/Haneke/HanekeSwift)
+- [Nuke](https://github.com/kean/Nuke)
+- [AlamofireImage](https://github.com/Alamofire/AlamofireImage)
+- [APNGKit](https://github.com/onevcat/APNGKit)
+- [FastImageCache](https://github.com/path/FastImageCache)
+- [AwesomeCache](https://github.com/aschuch/AwesomeCache)
 
 ### 相册 & 图片处理 & 选择器 & Gif & Emoji
-- Toucan(https://github.com/gavinbunney/Toucan)
-- droptogif(https://github.com/mortenjust/droptogif)
-- ImagePicker(https://github.com/hyperoslo/ImagePicker)
-- DynamicColor(https://github.com/yannickl/DynamicColor)
-- Gifu(https://github.com/kaishin/Gifu)
-- UIImageColors(https://github.com/jathu/UIImageColors)
-- Filterpedia(https://github.com/FlexMonkey/Filterpedia)
-- ImagePickerSheetController(https://github.com/larcus94/ImagePickerSheetController)
-- ALCameraViewController(https://github.com/AlexLittlejohn/ALCameraViewController)
-- ImageScout(https://github.com/kaishin/ImageScout)
-- SKPhotoBrowser(https://github.com/suzuki-0000/SKPhotoBrowser)
-- Fusuma(https://github.com/ytakzk/Fusuma)
-- XAnimatedImage(https://github.com/khaledmtaha/XAnimatedImage)
-- BSImagePicker(https://github.com/mikaoj/BSImagePicker)
-- SwiftImageProcessing(https://github.com/skyfe79/SwiftImageProcessing)
-- PhotoBrowser(https://github.com/MoZhouqi/PhotoBrowser)
-- CFCityPickerVC(https://github.com/CharlinFeng/CFCityPickerVC)
-- ImageViewer()https://github.com/MailOnline/ImageViewer
+- [Toucan](https://github.com/gavinbunney/Toucan)
+- [droptogif](https://github.com/mortenjust/droptogif)
+- [ImagePicker](https://github.com/hyperoslo/ImagePicker)
+- [DynamicColor](https://github.com/yannickl/DynamicColor)
+- [Gifu](https://github.com/kaishin/Gifu)
+- [UIImageColors](https://github.com/jathu/UIImageColors)
+- [Filterpedia](https://github.com/FlexMonkey/Filterpedia)
+- [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController)
+- [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)
+- [ImageScout](https://github.com/kaishin/ImageScout)
+- [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
+- [Fusuma](https://github.com/ytakzk/Fusuma)
+- [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage)
+- [BSImagePicker](https://github.com/mikaoj/BSImagePicker)
+- [SwiftImageProcessing](https://github.com/skyfe79/SwiftImageProcessing)
+- [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser)
+- [CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC)
+- [ImageViewer](https://github.com/MailOnline/ImageViewer)
 - WatchScreenshotMagic(https://github.com/Imperiopolis/WatchScreenshotMagic)
 
 ### 日历 & 时间日期 & 国际化
@@ -553,9 +571,6 @@
 
 ### SDK
 - Swifter（https://github.com/mattdonnelly/Swifter）
-
-
-
 
 
 https://github.com/search?o=desc&p=44&q=language%3Aswift&ref=cmdform&s=stars&type=Repositories
