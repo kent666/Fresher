@@ -82,7 +82,7 @@
 - HTTP
   - [Alamofire](https://github.com/Alamofire/Alamofire)
     - [BigBrother](https://github.com/marcelofabri/BigBrother)
-  - [Moya](https://github.com/Moya/Moya)\
+  - [Moya](https://github.com/Moya/Moya)
   - [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP)
   - [Taylor](https://github.com/izqui/Taylor)
   - [Pitaya](https://github.com/johnlui/Pitaya)
