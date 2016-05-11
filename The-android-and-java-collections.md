@@ -112,7 +112,6 @@
 - Robolectric(http://robolectric.org/)
 - mockito(https://github.com/mockito/mockito)
 - assertj-android(https://github.com/square/assertj-android)
-- android-testing(https://github.com/googlesamples/android-testing)
 
 ### 性能、优化、调试
 - 崩溃上报
@@ -195,7 +194,6 @@
 - 图片处理
   - uCrop(https://github.com/Yalantis/uCrop)
   - cropper(https://github.com/edmodo/cropper)
-  - cropimage(https://github.com/biokys/cropimage)
   - android-crop(https://github.com/jdamcd/android-crop)
   - SimpleCropView(https://github.com/IsseiAoki/SimpleCropView)
   - scissors(https://github.com/lyft/scissors)
@@ -216,7 +214,6 @@
 - HoloColorPicker(https://github.com/LarsWerkman/HoloColorPicker)
 - android-betterpickers(https://github.com/code-troopers/android-betterpickers)
 - SublimePicker(https://github.com/vikramkakkar/SublimePicker)
-- colorpicker(https://github.com/flavienlaurent/colorpicker)
 
 ### 焕肤
 - AndroidChangeSkin(https://github.com/hongyangAndroid/AndroidChangeSkin)
@@ -241,6 +238,7 @@
 
 ### 键盘 & 表情 & 聊天
 - XhsEmoticonsKeyboard(https://github.com/w446108264/XhsEmoticonsKeyboard)
+- Emoticons-Keyboard(https://github.com/chiragjain/Emoticons-Keyboard)
 
 ### 权限提示
 - TedPermission(https://github.com/ParkSangGwon/TedPermission)
@@ -262,28 +260,19 @@
 - parceler(https://github.com/johncarl81/parceler)
 - auto(https://github.com/google/auto)
 
-### 跨平台
-- node-android(https://github.com/InstantWebP2P/node-android)
-- FirebaseUI-Android(https://github.com/firebase/FirebaseUI-Android)
-- cordova-android(https://github.com/apache/cordova-android)
-
 ### 其他工具
 - BackgroundMailLibrary(https://github.com/kristijandraca/BackgroundMailLibrary)
-- xUtils(https://github.com/wyouflf/xUtils)
-- xUtils3(https://github.com/wyouflf/xUtils3)
 - apk-downloader(https://github.com/Lekensteyn/apk-downloader)
 - anko(https://github.com/Kotlin/anko)
 - Bolts-Android(https://github.com/BoltsFramework/Bolts-Android)
 
 ### 游戏引擎
 - libgdx(https://github.com/libgdx/libgdx)
-- AndEngine(https://github.com/nicolasgramlich/AndEngine)
 
 ### ImageView
 - RoundedImageView(https://github.com/vinc3m1/RoundedImageView)
 - TouchImageView(https://github.com/MikeOrtiz/TouchImageView)
 - ImageViewZoom(https://github.com/sephiroth74/ImageViewZoom)
-- android-smart-image-view(https://github.com/loopj/android-smart-image-view)
 - CustomShapeImageView(https://github.com/MostafaGazar/CustomShapeImageView)
 - CircleImageView(https://github.com/hdodenhof/CircleImageView)
 - android-shape-imageview(https://github.com/siyamed/android-shape-imageview)
@@ -294,7 +283,6 @@
 
 ### ScrollView
 - Android-ObservableScrollView(https://github.com/ksoichiro/Android-ObservableScrollView)
-- android-viewflow(https://github.com/pakerfeldt/android-viewflow)
 
 ### ProgressBar
 - SmoothProgressBar(https://github.com/castorflex/SmoothProgressBar)
@@ -331,7 +319,6 @@
 - LikeButton(https://github.com/jd-alexander/LikeButton)
 - android-circlebutton(https://github.com/markushi/android-circlebutton)
 - Fancybuttons(https://github.com/medyo/Fancybuttons)
-- SwitchButton(https://github.com/ikew0ng/SwitchButton)
 - SwitchButton(https://github.com/kyleduo/SwitchButton)
 - ToggleButton(https://github.com/zcweng/ToggleButton)
 - android-floating-action-button(https://github.com/futuresimple/android-floating-action-button)
@@ -343,9 +330,7 @@
 ### Toast & Notification
 - SuperToasts(https://github.com/JohnPersano/SuperToasts)
 - Crouton(https://github.com/keyboardsurfer/Crouton)
-- Crouton(https://github.com/GBouerat/Crouton)
 - Android-AppMsg(https://github.com/johnkil/Android-AppMsg)
-- Notifications4EveryWhere(https://github.com/youxiachai/Notifications4EveryWhere)
 
 ### Floating Window
 - StandOut(https://github.com/pingpongboss/StandOut)
@@ -358,13 +343,11 @@
 - Android-MonthCalendarWidget(https://github.com/romannurik/Android-MonthCalendarWidget)
 - android-times-square(https://github.com/square/android-times-square)
 - Android-Week-View(https://github.com/alamkanak/Android-Week-View)
-- DroidPersianCalendar(https://github.com/ebraminio/DroidPersianCalendar)
 - AgendaCalendarView(https://github.com/Tibolte/AgendaCalendarView)
 - Caldroid(https://github.com/roomorama/Caldroid)
 
 ### Gif & emoji
 - GifView(https://github.com/Cutta/GifView)
-- Emoticons-Keyboard(https://github.com/chiragjain/Emoticons-Keyboard)
 - emoji-cheat-sheet.com(https://github.com/arvida/emoji-cheat-sheet.com)
 - twemoji(https://github.com/twitter/twemoji)
 - emojitracker(https://github.com/mroth/emojitracker)
@@ -374,34 +357,22 @@
 - StatusBarUtil(https://github.com/laobie/StatusBarUtil)
 
 ### ListView & RecylerView
-- drag-sort-listview(https://github.com/bauerca/drag-sort-listview)
 - StickyListHeaders(https://github.com/emilsjolander/StickyListHeaders)
 - pinned-section-listview(https://github.com/beworker/pinned-section-listview)
 - LazyList(https://github.com/thest1/LazyList)
 - ListBuddies(https://github.com/jpardogo/ListBuddies)
-- HorizontalVariableListView(https://github.com/sephiroth74/HorizontalVariableListView)
 - IndexableListView(https://github.com/woozzu/IndexableListView)
-- QuickReturnListView(https://github.com/LarsWerkman/QuickReturnListView)
 - FlabbyListView(https://github.com/jpardogo/FlabbyListView)
-- Android-HorizontalListView(https://github.com/MeetMe/Android-HorizontalListView)
-- PinnedHeaderListView(https://github.com/JimiSmith/PinnedHeaderListView)
 - ListviewFilter(https://github.com/bhavyahmehta/ListviewFilter)
 - DragNDropList(https://github.com/terlici/DragNDropList)
-- XListView-Android(https://github.com/Maxwin-z/XListView-Android)
-- DevsmartLib-Android(https://github.com/dinocore1/DevsmartLib-Android)
 - UltimateRecyclerView(https://github.com/cymcsg/UltimateRecyclerView)
-- RecyclerViewExtensions(https://github.com/antoniolg/RecyclerViewExtensions)
 - android-advancedrecyclerview(https://github.com/h6ah4i/android-advancedrecyclerview)
 - sticky-headers-recyclerview(https://github.com/timehop/sticky-headers-recyclerview)
 - RecyclerView-FastScroll(https://github.com/timusus/RecyclerView-FastScroll)
+- SuperSLiM(https://github.com/TonicArtos/SuperSLiM)
 
 ### GridView & GridLayout
-- AndroidStaggeredGrid(https://github.com/etsy/AndroidStaggeredGrid)
-- StaggeredGridView(https://github.com/maurycyw/StaggeredGridView)
-- StickyGridHeaders(https://github.com/TonicArtos/StickyGridHeaders)
-- DraggableGridView(https://github.com/thquinn/DraggableGridView)
 - AsymmetricGridView(https://github.com/felipecsl/AsymmetricGridView)
-- StaggeredGridViewDemo(https://github.com/maurycyw/StaggeredGridViewDemo)
 - android-grid-wichterle(https://github.com/inmite/android-grid-wichterle)
 - FooterGridViewSpecial(https://github.com/nagoya0/FooterGridViewSpecial)
 - SquareGridView(https://github.com/goodev/SquareGridView)
