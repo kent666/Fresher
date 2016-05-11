@@ -373,14 +373,10 @@
 
 ### GridView & GridLayout
 - AsymmetricGridView(https://github.com/felipecsl/AsymmetricGridView)
-- android-grid-wichterle(https://github.com/inmite/android-grid-wichterle)
-- FooterGridViewSpecial(https://github.com/nagoya0/FooterGridViewSpecial)
 - SquareGridView(https://github.com/goodev/SquareGridView)
-- StaggeredGridView(https://github.com/chrisjenx/StaggeredGridView)
 
 ### ViewPager
 - ViewPagerIndicator(https://github.com/JakeWharton/ViewPagerIndicator)
-- JazzyViewPager(https://github.com/jfeinstein10/JazzyViewPager)
 - Android-WizardPager(https://github.com/romannurik/Android-WizardPager)
 - WizardPager(https://github.com/TechFreak/WizardPager)
 - ExpandablePager(https://github.com/Telenav/ExpandablePager)
@@ -390,7 +386,6 @@
 - WoWoViewPager(https://github.com/Nightonke/WoWoViewPager)
 
 ### Menu & ActionBar
-- SlidingMenu(https://github.com/jfeinstein10/SlidingMenu)
 - AndroidResideMenu(https://github.com/SpecialCyCi/AndroidResideMenu)
 - CircularFloatingActionMenu(https://github.com/oguzbilgener/CircularFloatingActionMenu)
 - android-satellite-menu(https://github.com/siyamed/android-satellite-menu)
@@ -398,30 +393,24 @@
 - BoomMenu(https://github.com/Nightonke/BoomMenu)
 - GuillotineMenu-Android(https://github.com/Yalantis/GuillotineMenu-Android)
 - coolMenu(https://github.com/DxTT/coolMenu)
-- AndroidSideMenu(https://github.com/dmitry-zaitsev/AndroidSideMenu)
 - Android-Wheel-Menu(https://github.com/anupcowkur/Android-Wheel-Menu)
 - ExpandableButtonMenu(https://github.com/lemonlabs/ExpandableButtonMenu)
 - Context-Menu.Android(https://github.com/Yalantis/Context-Menu.Android)
 - FadingActionBar(https://github.com/ManuelPeinado/FadingActionBar)
-- NotBoringActionBar(https://github.com/flavienlaurent/NotBoringActionBar)
 - GlassActionBar(https://github.com/ManuelPeinado/GlassActionBar)
-- ActionBarToggle(https://github.com/DWorkS/ActionBarToggle)
-- material-menu(https://github.com/balysv/material-menu)
 - Side-Menu.Android(https://github.com/Yalantis/Side-Menu.Android)
 
-### Tab &Bar
+### Tab &Bar & Panel
 - PagerSlidingTabStrip(https://github.com/astuetz/PagerSlidingTabStrip)
 - BottomBar(https://github.com/roughike/BottomBar)
 - LuseenBottomNavigation(https://github.com/armcha/LuseenBottomNavigation)
 - ahbottomnavigation(https://github.com/aurelhubert/ahbottomnavigation)
-- RefreshActionItem(https://github.com/ManuelPeinado/RefreshActionItem)
-
-### Panel
 - AndroidSlidingUpPanel(https://github.com/umano/AndroidSlidingUpPanel)
+- DraggablePanel(https://github.com/pedrovgs/DraggablePanel)
 
 ### CardLayout
 - cardslib(https://github.com/gabrielemariotti/cardslib)
-- DraggablePanel(https://github.com/pedrovgs/DraggablePanel)
+
 - MaterialList(https://github.com/dexafree/MaterialList)
 - cardsui-for-android(https://github.com/Androguide/cardsui-for-android)
 - Swipecards(https://github.com/Diolor/Swipecards)
