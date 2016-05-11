@@ -185,6 +185,7 @@
 - welcome-coordinator(https://github.com/txusballesteros/welcome-coordinator)
 - AppIntro(https://github.com/PaoloRotolo/AppIntro)
 - ProductTour(https://github.com/matrixxun/ProductTour)
+- MaterialShowcaseView(https://github.com/deano2390/MaterialShowcaseView)
 
 ### 软件更新
 - changeloglib(https://github.com/gabrielemariotti/changeloglib)
@@ -410,9 +411,7 @@
 
 ### CardLayout
 - cardslib(https://github.com/gabrielemariotti/cardslib)
-
 - MaterialList(https://github.com/dexafree/MaterialList)
-- cardsui-for-android(https://github.com/Androguide/cardsui-for-android)
 - Swipecards(https://github.com/Diolor/Swipecards)
 
 ### PullToRefresh
@@ -442,10 +441,8 @@
 ### Animation & Transactions
 - ListViewAnimations(https://github.com/nhaarman/ListViewAnimations)
 - AndroidViewAnimations(https://github.com/daimajia/AndroidViewAnimations)
-- android-flip(https://github.com/openaphid/android-flip)
 - AnimeTaste(https://github.com/daimajia/AnimeTaste)
 - loading-balls(https://github.com/glomadrian/loading-balls)
-- DrawerArrowDrawable(https://github.com/ChrisRenke/DrawerArrowDrawable)
 - Android-SpinKit(https://github.com/ybq/Android-SpinKit)
 - Material-Animations(https://github.com/lgvalle/Material-Animations)
 - recyclerview-animators(https://github.com/wasabeef/recyclerview-animators)
@@ -461,6 +458,7 @@
 - AnimationEasingFunctions(https://github.com/daimajia/AnimationEasingFunctions)
 - ComboView(https://github.com/brucetoo/ComboView)
 - bottomsheet(https://github.com/Flipboard/bottomsheet)
+- AndroidSweetSheet(https://github.com/zzz40500/AndroidSweetSheet)
 
 ### Meterial Design
 - MaterialDesignLibrary(https://github.com/navasmdc/MaterialDesignLibrary)
@@ -474,7 +472,6 @@
 - Material-Spinner(https://github.com/jaredrummler/Material-Spinner)
 - MaterialDrawer(https://github.com/mikepenz/MaterialDrawer)
 - material(https://github.com/rey5137/material)
-- RippleEffect(https://github.com/traex/RippleEffect)
 - Genius-Android(https://github.com/qiujuer/Genius-Android)
 - Carbon(https://github.com/ZieIony/Carbon)
 - awesome-android-ui(https://github.com/wasabeef/awesome-android-ui)
@@ -501,6 +498,7 @@
 - 500px-android-blur(https://github.com/500px/500px-android-blur)
 - Blurry(https://github.com/wasabeef/Blurry)
 - android-stackblur(https://github.com/kikoso/android-stackblur)
+- RippleEffect(https://github.com/traex/RippleEffect)
 
 ### Color
 - ColorArt(https://github.com/MichaelEvans/ColorArt)
@@ -511,29 +509,19 @@
 - greedo-layout-for-android(https://github.com/500px/greedo-layout-for-android)
 - cwac-endless(https://github.com/commonsguy/cwac-endless)
 - Android-ProgressFragment(https://github.com/johnkil/Android-ProgressFragment)
-- android-uitableview(https://github.com/thiagolocatelli/android-uitableview)
-- android_waterfall(https://github.com/dodola/android_waterfall)
-- StickyScrollViewItems(https://github.com/emilsjolander/StickyScrollViewItems)
 - DraggableFlagView(https://github.com/wangjiegulu/DraggableFlagView)
 - QuiltViewLibrary(https://github.com/jacobmoncur/QuiltViewLibrary)
 - android-empty-layout(https://github.com/alamkanak/android-empty-layout)
-- easy-adapter(https://github.com/ribot/easy-adapter)
 - TableFixHeaders(https://github.com/InQBarna/TableFixHeaders)
 - poppyview(https://github.com/flavienlaurent/poppyview)
 - ImageLayout(https://github.com/ManuelPeinado/ImageLayout)
-- AStickyHeader(https://github.com/DWorkS/AStickyHeader)
-- QuickReturnHeader(https://github.com/ManuelPeinado/QuickReturnHeader)
 - Toro(https://github.com/eneim/Toro)
 - adapter(https://github.com/ThePacific/adapter)
 - VideoListPlayer(https://github.com/waynell/VideoListPlayer)
 - Android-ItemTouchHelper-Demo(https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
-- MaterialShowcaseView(https://github.com/deano2390/MaterialShowcaseView)
-- AndroidSweetSheet(https://github.com/zzz40500/AndroidSweetSheet)
-- PullZoomView(https://github.com/Frank-Zhu/PullZoomView)
 - android-flowlayout(https://github.com/ApmeM/android-flowlayout)
 - android-pathview(https://github.com/geftimov/android-pathview)
 - WheelView-Android(https://github.com/lantouzi/WheelView-Android)
-- Android-SwipeToDismiss(https://github.com/romannurik/Android-SwipeToDismiss)
 - Android-Bootstrap(https://github.com/Bearded-Hen/Android-Bootstrap)
 - range-bar(https://github.com/edmodo/range-bar)
 - swirl(https://github.com/mattprecious/swirl)
