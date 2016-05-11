@@ -13,7 +13,6 @@
 ### 异步任务
 - android-priority-jobqueue(https://github.com/yigit/android-priority-jobqueue)
 - tape(https://github.com/square/tape)
-- robospice(https://github.com/stephanenicolas/robospice)
 
 ### 数据处理
 - JSON
@@ -45,13 +44,10 @@
     - sqlcipher(https://github.com/sqlcipher/sqlcipher)
     - hawk(https://github.com/orhanobut/hawk)
     - squidb(https://github.com/yahoo/squidb)
-    - leveldb(https://github.com/google/leveldb)
 - ORM
     - greenDAO(https://github.com/greenrobot/greenDAO)
     - ormlite-core(https://github.com/j256/ormlite-core)
     - ormlite-android(https://github.com/j256/ormlite-android)
-    - mybatis-3(https://github.com/mybatis/mybatis-3)
-    - Hibernate(http://hibernate.org/orm/)
 - SQLiteDatabase/ContentResolver Utils
     - storio(https://github.com/pushtorefresh/storio)
     - sugar(https://github.com/satyan/sugar)
@@ -65,7 +61,6 @@
 - android-architecture(https://github.com/googlesamples/android-architecture)
 - MVP & MVVM
   - androidmvp(https://github.com/antoniolg/androidmvp)
-  - android-mvp-pattern(https://github.com/kaedea/android-mvp-pattern)
   - EffectiveAndroidUI(https://github.com/pedrovgs/EffectiveAndroidUI)
 - CleanArchitecture
   - Android-Clean-Boilerplate(https://github.com/dmilicic/Android-Clean-Boilerplate)
@@ -76,7 +71,6 @@
 
 ### 依赖注入
 - butterknife(https://github.com/JakeWharton/butterknife)
-    - android-butterknife-zelezny(https://github.com/avast/android-butterknife-zelezny)
 - dagger(https://github.com/square/dagger)
 - dagger2(https://github.com/google/dagger)
 - guice(https://github.com/google/guice)
@@ -104,7 +98,6 @@
   - Android-ReactiveLocation(https://github.com/mcharmas/Android-ReactiveLocation)
   - RxPermissions(https://github.com/tbruyelle/RxPermissions)
 - EventBus（https://github.com/greenrobot/EventBus）
-- otto(https://github.com/square/otto)
 - 相关讨论
     - https://www.zhihu.com/question/32179258
     - https://github.com/bboyfeiyu/android-tech-frontier/blob/master/issue-16/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8EventBus.md
