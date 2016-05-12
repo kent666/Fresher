@@ -103,6 +103,7 @@
     - https://github.com/bboyfeiyu/android-tech-frontier/blob/master/issue-16/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8EventBus.md
     - http://nerds.weddingpartyapp.com/tech/2014/12/24/implementing-an-event-bus-with-rxjava-rxbus/
     - https://github.com/lzyzsd/Awesome-RxJava
+- agera(https://github.com/google/agera)
 
 ### 测试框架
 - android-testing(https://github.com/googlesamples/android-testing)
@@ -162,6 +163,7 @@
 - android-classyshark(https://github.com/google/android-classyshark)
 - spongycastle(https://github.com/rtyley/spongycastle)
 - bc-java(https://github.com/bcgit/bc-java)
+- redex(https://github.com/facebook/redex.git)
 
 ### CI & 渠道 & 统计 & 推广
 - jenkins(https://github.com/jenkinsci/jenkins)
