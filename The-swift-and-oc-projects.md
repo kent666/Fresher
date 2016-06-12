@@ -12,10 +12,6 @@
 
 - 响应式
   - [RxSwift](https://github.com/ReactiveX/RxSwift)
-    - [ReduxKit](https://github.com/ReduxKit/ReduxKit)
-  - [ReactKit](https://github.com/ReactKit/ReactKit)
-  - [PeerKit](https://github.com/jpsim/PeerKit)
-  - [emitter-kit](https://github.com/aleclarson/emitter-kit)
 
 - KVO
   - [Observable-Swift](https://github.com/slazyk/Observable-Swift)
@@ -44,10 +40,8 @@
 - [Venice](https://github.com/VeniceX/Venice)
 - [Euler](https://github.com/mattt/Euler)
 - [RateLimit](https://github.com/soffes/RateLimit)
-- [LlamaKit](https://github.com/LlamaKit/LlamaKit)
 - [SwiftFoundation](https://github.com/PureSwift/SwiftFoundation)
 - [Dollar](https://github.com/ankurp/Dollar)
-- [SWRoute](https://github.com/rodionovd/SWRoute)
 
 - 代码规范
   - [SwiftLint](https://github.com/realm/SwiftLint)
