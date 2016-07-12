@@ -1,4 +1,3 @@
 Deprecated!
 
-
-The collections of my enjoy repos.
+Ref: https://github.com/sindresorhus/awesome
